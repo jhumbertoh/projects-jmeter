@@ -1,0 +1,1083 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1592058151921,73,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,13423,159,2,2,http://localhost:8081/issues.json,72,0,6
+1592058151921,131,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,13423,159,2,2,http://localhost:8081/issues.json,131,0,6
+1592058152020,71,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1197,428,2,2,http://localhost:8081/issues.json,71,0,0
+1592058152053,98,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1197,428,2,2,http://localhost:8081/issues.json,98,0,0
+1592058152093,95,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1185,163,2,2,http://localhost:8081/issues/412.json,95,0,0
+1592058152152,61,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1185,163,2,2,http://localhost:8081/issues/413.json,61,0,0
+1592058152189,57,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,928,354,2,2,http://localhost:8081/issues/412.json,0,0,0
+1592058152214,77,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,928,354,2,2,http://localhost:8081/issues/413.json,0,0,0
+1592058152247,89,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,511,246,2,2,http://localhost:8081/issues/412.json,0,0,0
+1592058152292,73,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,511,246,2,2,http://localhost:8081/issues/413.json,0,0,0
+1592058152339,104,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,13423,159,2,2,http://localhost:8081/issues.json,104,0,1
+1592058152366,136,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,13423,159,2,2,http://localhost:8081/issues.json,136,0,1
+1592058152444,94,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1197,428,2,2,http://localhost:8081/issues.json,94,0,0
+1592058152503,78,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1197,428,2,2,http://localhost:8081/issues.json,78,0,0
+1592058152538,91,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1185,163,2,2,http://localhost:8081/issues/414.json,91,0,0
+1592058152581,73,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1185,163,2,2,http://localhost:8081/issues/415.json,73,0,0
+1592058152629,59,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,928,354,2,2,http://localhost:8081/issues/414.json,0,0,0
+1592058152655,78,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,928,354,2,2,http://localhost:8081/issues/415.json,0,0,0
+1592058152689,85,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,511,246,2,2,http://localhost:8081/issues/414.json,0,0,0
+1592058152734,65,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,511,246,2,2,http://localhost:8081/issues/415.json,0,0,0
+1592058152774,89,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,13423,159,2,2,http://localhost:8081/issues.json,89,0,0
+1592058152800,119,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,13423,159,4,4,http://localhost:8081/issues.json,119,0,0
+1592058152864,110,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1197,428,4,4,http://localhost:8081/issues.json,110,0,0
+1592058152889,216,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,13398,159,4,4,http://localhost:8081/issues.json,216,0,1
+1592058152889,273,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,13398,159,4,4,http://localhost:8081/issues.json,273,0,1
+1592058152919,275,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1197,428,4,4,http://localhost:8081/issues.json,275,0,0
+1592058152975,255,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1185,163,4,4,http://localhost:8081/issues/416.json,255,0,0
+1592058153106,160,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,1197,428,4,4,http://localhost:8081/issues.json,160,0,0
+1592058153163,148,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1197,428,4,4,http://localhost:8081/issues.json,148,0,0
+1592058153195,165,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1185,163,4,4,http://localhost:8081/issues/417.json,165,0,0
+1592058153231,164,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,928,354,4,4,http://localhost:8081/issues/416.json,0,0,0
+1592058153266,169,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,1185,163,4,4,http://localhost:8081/issues/418.json,169,0,0
+1592058153312,144,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1185,163,4,4,http://localhost:8081/issues/419.json,144,0,0
+1592058153360,124,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,928,354,4,4,http://localhost:8081/issues/417.json,0,0,0
+1592058153395,126,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,511,246,4,4,http://localhost:8081/issues/416.json,0,0,0
+1592058153436,113,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,928,354,4,4,http://localhost:8081/issues/418.json,0,0,0
+1592058153457,149,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,928,354,4,4,http://localhost:8081/issues/419.json,0,0,0
+1592058153485,160,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,511,246,4,4,http://localhost:8081/issues/417.json,0,0,0
+1592058153522,177,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,13397,159,4,4,http://localhost:8081/issues.json,177,0,1
+1592058153550,174,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,511,246,4,4,http://localhost:8081/issues/418.json,0,0,0
+1592058153607,142,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,511,246,4,4,http://localhost:8081/issues/419.json,0,0,0
+1592058153646,167,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,13423,159,4,4,http://localhost:8081/issues.json,167,0,1
+1592058153699,150,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1197,428,4,4,http://localhost:8081/issues.json,150,0,0
+1592058153724,191,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,13398,159,6,6,http://localhost:8081/issues.json,191,0,1
+1592058153750,219,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,13398,159,6,6,http://localhost:8081/issues.json,219,0,0
+1592058153814,200,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1197,428,6,6,http://localhost:8081/issues.json,200,0,0
+1592058153849,199,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1185,163,6,6,http://localhost:8081/issues/420.json,199,0,0
+1592058153894,209,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,13373,159,6,6,http://localhost:8081/issues.json,209,0,0
+1592058153893,262,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,13373,159,6,6,http://localhost:8081/issues.json,262,0,1
+1592058153915,281,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,1197,428,6,6,http://localhost:8081/issues.json,281,0,0
+1592058153970,275,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1197,428,6,6,http://localhost:8081/issues.json,275,0,0
+1592058154014,268,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1185,163,6,6,http://localhost:8081/issues/421.json,268,0,0
+1592058154048,279,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,928,354,6,6,http://localhost:8081/issues/420.json,0,0,0
+1592058154104,306,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,1197,428,6,6,http://localhost:8081/issues.json,306,0,0
+1592058154155,342,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,1197,428,6,6,http://localhost:8081/issues.json,342,0,0
+1592058154196,340,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,1185,163,6,6,http://localhost:8081/issues/422.json,340,0,0
+1592058154245,315,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1185,163,6,6,http://localhost:8081/issues/423.json,315,0,0
+1592058154282,310,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,928,354,6,6,http://localhost:8081/issues/421.json,0,0,0
+1592058154327,303,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,511,246,6,6,http://localhost:8081/issues/420.json,0,0,0
+1592058154410,244,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,1185,163,6,6,http://localhost:8081/issues/424.json,244,0,0
+1592058154498,179,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,1185,163,6,6,http://localhost:8081/issues/425.json,179,0,0
+1592058154536,173,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,928,354,6,6,http://localhost:8081/issues/422.json,0,0,0
+1592058154560,194,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,928,354,6,6,http://localhost:8081/issues/423.json,0,0,0
+1592058154592,215,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,511,246,6,6,http://localhost:8081/issues/421.json,0,0,0
+1592058154630,233,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,13347,159,6,6,http://localhost:8081/issues.json,233,0,1
+1592058154655,239,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-6,,true,,928,354,6,6,http://localhost:8081/issues/424.json,0,0,0
+1592058154678,265,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-5,,true,,928,354,8,8,http://localhost:8081/issues/425.json,0,0,0
+1592058154709,274,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,511,246,8,8,http://localhost:8081/issues/422.json,0,0,0
+1592058154754,259,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,511,246,8,8,http://localhost:8081/issues/423.json,0,0,0
+1592058154811,268,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,13397,159,8,8,http://localhost:8081/issues.json,268,0,1
+1592058154863,250,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1197,428,8,8,http://localhost:8081/issues.json,250,0,0
+1592058154895,255,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-6,,true,,511,246,8,8,http://localhost:8081/issues/424.json,0,0,0
+1592058154898,306,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,13385,159,8,8,http://localhost:8081/issues.json,306,0,0
+1592058154898,368,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,true,,13385,159,8,8,http://localhost:8081/issues.json,368,0,0
+1592058154944,350,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-5,,true,,511,246,8,8,http://localhost:8081/issues/425.json,0,0,0
+1592058154984,370,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,13398,159,8,8,http://localhost:8081/issues.json,370,0,1
+1592058155014,398,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,13398,159,8,8,http://localhost:8081/issues.json,398,0,0
+1592058155080,365,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1197,428,8,8,http://localhost:8081/issues.json,365,0,0
+1592058155113,380,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1185,163,8,8,http://localhost:8081/issues/426.json,380,0,0
+1592058155150,400,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,13373,159,8,8,http://localhost:8081/issues.json,400,0,1
+1592058155205,380,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,1197,428,8,8,http://localhost:8081/issues.json,380,0,0
+1592058155266,365,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,true,,1197,428,8,8,http://localhost:8081/issues.json,365,0,0
+1592058155294,417,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,13323,159,8,8,http://localhost:8081/issues.json,417,0,1
+1592058155355,389,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,1197,428,8,8,http://localhost:8081/issues.json,389,0,0
+1592058155413,375,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1197,428,8,8,http://localhost:8081/issues.json,375,0,0
+1592058155446,376,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1185,163,8,8,http://localhost:8081/issues/427.json,376,0,0
+1592058155493,359,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,928,354,8,8,http://localhost:8081/issues/426.json,0,0,0
+1592058155551,361,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,1197,428,10,10,http://localhost:8081/issues.json,361,0,0
+1592058155586,361,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,1185,163,10,10,http://localhost:8081/issues/428.json,361,0,0
+1592058155632,338,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,true,,1185,163,10,10,http://localhost:8081/issues/429.json,338,0,0
+1592058155711,311,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,1197,428,10,10,http://localhost:8081/issues.json,311,0,0
+1592058155745,330,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,1185,163,10,10,http://localhost:8081/issues/430.json,330,0,0
+1592058155788,324,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1185,163,10,10,http://localhost:8081/issues/431.json,324,0,0
+1592058155822,360,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,928,354,10,10,http://localhost:8081/issues/427.json,0,0,0
+1592058155852,372,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,511,246,10,10,http://localhost:8081/issues/426.json,0,0,0
+1592058155903,376,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,true,,13260,159,10,10,http://localhost:8081/issues.json,376,0,0
+1592058155902,430,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,true,,13260,159,10,10,http://localhost:8081/issues.json,429,0,1
+1592058155912,443,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,1185,163,10,10,http://localhost:8081/issues/432.json,443,0,0
+1592058155947,443,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-7,,true,,928,354,10,10,http://localhost:8081/issues/428.json,0,0,0
+1592058155970,476,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-8,,true,,928,354,10,10,http://localhost:8081/issues/429.json,0,0,0
+1592058156022,463,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,1185,163,10,10,http://localhost:8081/issues/433.json,463,0,0
+1592058156076,442,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,928,354,10,10,http://localhost:8081/issues/430.json,0,0,0
+1592058156113,452,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,928,354,10,10,http://localhost:8081/issues/431.json,0,0,0
+1592058156182,425,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,511,246,10,10,http://localhost:8081/issues/427.json,0,0,0
+1592058156225,446,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,13321,159,10,10,http://localhost:8081/issues.json,446,0,0
+1592058156280,425,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,true,,1197,428,10,10,http://localhost:8081/issues.json,425,0,0
+1592058156332,416,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,true,,1197,428,10,10,http://localhost:8081/issues.json,416,0,0
+1592058156355,436,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-6,,true,,928,354,10,10,http://localhost:8081/issues/432.json,0,0,0
+1592058156390,439,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-7,,true,,511,246,10,10,http://localhost:8081/issues/428.json,0,0,0
+1592058156447,409,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-8,,true,,511,246,10,10,http://localhost:8081/issues/429.json,0,0,0
+1592058156485,406,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-5,,true,,928,354,10,10,http://localhost:8081/issues/433.json,0,0,0
+1592058156518,427,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,511,246,12,12,http://localhost:8081/issues/430.json,0,0,0
+1592058156566,407,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,511,246,12,12,http://localhost:8081/issues/431.json,0,0,0
+1592058156608,421,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,13347,159,12,12,http://localhost:8081/issues.json,421,0,0
+1592058156671,392,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1197,428,12,12,http://localhost:8081/issues.json,392,0,0
+1592058156705,391,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,true,,1185,163,12,12,http://localhost:8081/issues/434.json,391,0,0
+1592058156749,370,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,true,,1185,163,12,12,http://localhost:8081/issues/435.json,370,0,0
+1592058156791,353,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-6,,true,,511,246,12,12,http://localhost:8081/issues/432.json,0,0,0
+1592058156830,378,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,13335,159,12,12,http://localhost:8081/issues.json,378,0,0
+1592058156856,410,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,true,,13335,159,12,12,http://localhost:8081/issues.json,410,0,1
+1592058156891,401,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-5,,true,,511,246,12,12,http://localhost:8081/issues/433.json,0,0,0
+1592058156904,443,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,text,true,,13348,159,12,12,http://localhost:8081/issues.json,443,0,0
+1592058156904,514,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,text,true,,13348,159,12,12,http://localhost:8081/issues.json,514,0,0
+1592058156945,529,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,13348,159,12,12,http://localhost:8081/issues.json,529,0,1
+1592058156974,554,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,13348,159,12,12,http://localhost:8081/issues.json,554,0,0
+1592058157030,539,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1197,428,12,12,http://localhost:8081/issues.json,539,0,0
+1592058157063,542,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1185,163,12,12,http://localhost:8081/issues/436.json,542,0,0
+1592058157097,540,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-10,,true,,928,354,12,12,http://localhost:8081/issues/434.json,0,0,0
+1592058157120,582,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-9,,true,,928,354,12,12,http://localhost:8081/issues/435.json,0,0,0
+1592058157145,689,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,13347,159,12,12,http://localhost:8081/issues.json,689,0,0
+1592058157209,660,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,1197,428,12,12,http://localhost:8081/issues.json,660,0,0
+1592058157267,650,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,true,,1197,428,14,14,http://localhost:8081/issues.json,650,0,0
+1592058157292,688,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,13297,159,14,14,http://localhost:8081/issues.json,688,0,1
+1592058157347,666,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-11,text,true,,1197,428,14,14,http://localhost:8081/issues.json,666,0,0
+1592058157419,649,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-12,text,true,,1197,428,14,14,http://localhost:8081/issues.json,648,0,0
+1592058157474,638,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,1197,428,14,14,http://localhost:8081/issues.json,638,0,0
+1592058157529,626,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1197,428,14,14,http://localhost:8081/issues.json,626,0,0
+1592058157569,624,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1185,163,14,14,http://localhost:8081/issues/437.json,624,0,0
+1592058157605,617,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,928,354,14,14,http://localhost:8081/issues/436.json,0,0,0
+1592058157638,624,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-10,,true,,511,246,14,14,http://localhost:8081/issues/434.json,0,0,0
+1592058157702,596,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-9,,true,,511,246,14,14,http://localhost:8081/issues/435.json,0,0,0
+1592058157834,498,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,1197,428,14,14,http://localhost:8081/issues.json,498,0,0
+1592058157869,502,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,1185,163,14,14,http://localhost:8081/issues/438.json,501,0,0
+1592058157905,520,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,text,true,,13210,159,14,14,http://localhost:8081/issues.json,520,0,1
+1592058157905,572,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,text,true,,13210,159,14,14,http://localhost:8081/issues.json,572,0,1
+1592058157917,582,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,true,,1185,163,14,14,http://localhost:8081/issues/439.json,582,0,0
+1592058157981,562,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,1197,428,14,14,http://localhost:8081/issues.json,562,0,0
+1592058158014,565,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,text,true,,1185,163,14,14,http://localhost:8081/issues/440.json,565,0,0
+1592058158068,533,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,text,true,,1185,163,14,14,http://localhost:8081/issues/441.json,533,0,0
+1592058158113,511,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,1185,163,14,14,http://localhost:8081/issues/442.json,511,0,0
+1592058158156,492,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1185,163,14,14,http://localhost:8081/issues/443.json,492,0,0
+1592058158193,485,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,928,354,14,14,http://localhost:8081/issues/437.json,0,0,0
+1592058158222,496,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,511,246,14,14,http://localhost:8081/issues/436.json,0,0,0
+1592058158263,521,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,true,,13210,159,14,14,http://localhost:8081/issues.json,521,0,0
+1592058158299,545,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,true,,13210,159,14,14,http://localhost:8081/issues.json,545,0,0
+1592058158333,535,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,1185,163,14,14,http://localhost:8081/issues/444.json,535,0,0
+1592058158371,528,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-7,,true,,928,354,14,14,http://localhost:8081/issues/438.json,0,0,0
+1592058158425,525,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-14,text,true,,1197,428,16,16,http://localhost:8081/issues.json,525,0,0
+1592058158477,528,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-13,text,true,,1197,428,16,16,http://localhost:8081/issues.json,528,0,0
+1592058158500,548,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-8,,true,,928,354,16,16,http://localhost:8081/issues/439.json,0,0,0
+1592058158543,545,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,1185,163,16,16,http://localhost:8081/issues/445.json,545,0,0
+1592058158579,540,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-11,,true,,928,354,16,16,http://localhost:8081/issues/440.json,0,0,0
+1592058158602,564,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-12,,true,,928,354,16,16,http://localhost:8081/issues/441.json,0,0,0
+1592058158625,586,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,928,354,16,16,http://localhost:8081/issues/442.json,0,0,0
+1592058158648,621,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,928,354,16,16,http://localhost:8081/issues/443.json,0,0,0
+1592058158679,632,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,511,246,16,16,http://localhost:8081/issues/437.json,0,0,0
+1592058158718,648,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,13245,159,16,16,http://localhost:8081/issues.json,648,0,1
+1592058158785,616,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,true,,1197,428,16,16,http://localhost:8081/issues.json,616,0,0
+1592058158845,611,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,true,,1197,428,16,16,http://localhost:8081/issues.json,611,0,0
+1592058158868,637,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-6,,true,,928,354,16,16,http://localhost:8081/issues/444.json,0,0,0
+1592058158900,644,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-7,,true,,511,246,16,16,http://localhost:8081/issues/438.json,0,0,0
+1592058158910,694,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,text,true,,13220,159,16,16,http://localhost:8081/issues.json,693,0,1
+1592058158912,757,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,text,true,,13220,159,16,16,http://localhost:8081/issues.json,757,0,0
+1592058158950,748,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,text,true,,1185,163,16,16,http://localhost:8081/issues/446.json,747,0,0
+1592058159005,719,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,text,true,,1185,163,16,16,http://localhost:8081/issues/447.json,719,0,0
+1592058159048,704,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-8,,true,,511,246,16,16,http://localhost:8081/issues/439.json,0,0,0
+1592058159088,703,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-5,,true,,928,354,16,16,http://localhost:8081/issues/445.json,0,0,0
+1592058159119,735,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-11,,true,,511,246,16,16,http://localhost:8081/issues/440.json,0,0,0
+1592058159166,732,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-12,,true,,511,246,16,16,http://localhost:8081/issues/441.json,0,0,0
+1592058159212,721,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,511,246,18,18,http://localhost:8081/issues/442.json,0,0,0
+1592058159269,699,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,511,246,18,18,http://localhost:8081/issues/443.json,0,0,0
+1592058159317,737,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,13297,159,18,18,http://localhost:8081/issues.json,737,0,1
+1592058159367,721,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1197,428,18,18,http://localhost:8081/issues.json,721,0,0
+1592058159402,720,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,true,,1185,163,18,18,http://localhost:8081/issues/448.json,720,0,0
+1592058159456,689,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,true,,1185,163,18,18,http://localhost:8081/issues/449.json,689,0,0
+1592058159505,666,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-6,,true,,511,246,18,18,http://localhost:8081/issues/444.json,0,0,0
+1592058159544,680,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,13285,159,18,18,http://localhost:8081/issues.json,680,0,1
+1592058159604,663,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-15,text,true,,1197,428,18,18,http://localhost:8081/issues.json,663,0,0
+1592058159670,643,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-16,text,true,,1197,428,18,18,http://localhost:8081/issues.json,643,0,0
+1592058159698,658,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-14,,true,,928,354,18,18,http://localhost:8081/issues/446.json,0,0,0
+1592058159724,679,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-13,,true,,928,354,18,18,http://localhost:8081/issues/447.json,0,0,0
+1592058159752,725,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,true,,13259,159,18,18,http://localhost:8081/issues.json,725,0,1
+1592058159792,713,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-5,,true,,511,246,18,18,http://localhost:8081/issues/445.json,0,0,0
+1592058159854,705,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,text,true,,13272,159,18,18,http://localhost:8081/issues.json,705,0,1
+1592058159898,713,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,text,true,,13272,159,18,18,http://localhost:8081/issues.json,713,0,1
+1592058159913,759,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,text,true,,13272,159,18,18,http://localhost:8081/issues.json,759,0,0
+1592058159913,812,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,text,true,,13272,159,18,18,http://localhost:8081/issues.json,812,0,0
+1592058159934,844,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,13272,159,18,18,http://localhost:8081/issues.json,843,0,0
+1592058159969,869,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,13272,159,18,18,http://localhost:8081/issues.json,869,0,0
+1592058160054,817,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1197,428,18,18,http://localhost:8081/issues.json,817,0,0
+1592058160089,825,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1185,163,20,19,http://localhost:8081/issues/450.json,825,0,0
+1592058160122,840,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-10,,true,,928,354,20,20,http://localhost:8081/issues/448.json,0,0,0
+1592058160145,910,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-9,,true,,928,354,20,20,http://localhost:8081/issues/449.json,0,0,0
+1592058160171,980,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,13271,159,20,20,http://localhost:8081/issues.json,980,0,0
+1592058160225,959,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,1197,428,20,20,http://localhost:8081/issues.json,959,0,0
+1592058160268,950,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,text,true,,1185,163,20,20,http://localhost:8081/issues/451.json,950,0,0
+1592058160320,924,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,text,true,,1185,163,20,20,http://localhost:8081/issues/452.json,924,0,0
+1592058160356,915,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-14,,true,,511,246,20,20,http://localhost:8081/issues/446.json,0,0,0
+1592058160403,894,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-13,,true,,511,246,20,20,http://localhost:8081/issues/447.json,0,0,0
+1592058160477,854,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,true,,1197,428,20,20,http://localhost:8081/issues.json,854,0,0
+1592058160505,904,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,13247,159,20,20,http://localhost:8081/issues.json,904,0,0
+1592058160558,884,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-11,text,true,,1197,428,20,20,http://localhost:8081/issues.json,884,0,0
+1592058160610,876,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-12,text,true,,1197,428,20,20,http://localhost:8081/issues.json,876,0,0
+1592058160671,861,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-17,text,true,,1197,428,20,20,http://localhost:8081/issues.json,861,0,0
+1592058160725,863,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-18,text,true,,1197,428,20,20,http://localhost:8081/issues.json,863,0,0
+1592058160777,859,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,1197,428,20,20,http://localhost:8081/issues.json,859,0,0
+1592058160838,843,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1197,428,20,20,http://localhost:8081/issues.json,843,0,0
+1592058160870,847,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1185,163,20,20,http://localhost:8081/issues/453.json,847,0,0
+1592058160914,834,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,928,354,20,20,http://localhost:8081/issues/450.json,0,0,0
+1592058160914,912,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,text,true,,13106,159,20,20,http://localhost:8081/issues.json,912,0,0
+1592058160914,967,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,text,true,,13106,159,20,20,http://localhost:8081/issues.json,967,0,1
+1592058160961,949,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-10,,true,,511,246,20,20,http://localhost:8081/issues/448.json,0,0,0
+1592058161054,887,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-9,,true,,511,246,20,20,http://localhost:8081/issues/449.json,0,0,0
+1592058161151,835,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,1197,428,20,20,http://localhost:8081/issues.json,835,0,0
+1592058161183,841,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,1185,163,20,20,http://localhost:8081/issues/454.json,841,0,0
+1592058161218,849,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-15,,true,,928,354,20,20,http://localhost:8081/issues/451.json,0,0,0
+1592058161243,870,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-16,,true,,928,354,20,20,http://localhost:8081/issues/452.json,0,0,0
+1592058161271,906,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,text,true,,13134,159,20,20,http://localhost:8081/issues.json,906,0,0
+1592058161297,953,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,text,true,,13134,159,20,20,http://localhost:8081/issues.json,953,0,1
+1592058161332,943,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,true,,1185,163,20,20,http://localhost:8081/issues/455.json,943,0,0
+1592058161409,899,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,1197,428,20,20,http://localhost:8081/issues.json,899,0,0
+1592058161442,908,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,text,true,,1185,163,20,20,http://localhost:8081/issues/456.json,908,0,0
+1592058161487,900,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,text,true,,1185,163,20,20,http://localhost:8081/issues/457.json,900,0,0
+1592058161532,889,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,text,true,,1185,163,20,20,http://localhost:8081/issues/458.json,889,0,0
+1592058161589,870,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,text,true,,1185,163,20,20,http://localhost:8081/issues/459.json,870,0,0
+1592058161637,860,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,1185,163,20,20,http://localhost:8081/issues/460.json,860,0,0
+1592058161682,867,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1185,163,20,20,http://localhost:8081/issues/461.json,867,0,0
+1592058161717,866,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,928,354,20,20,http://localhost:8081/issues/453.json,0,0,0
+1592058161749,873,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,511,246,20,20,http://localhost:8081/issues/450.json,0,0,0
+1592058161827,826,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-19,text,true,,1197,428,20,20,http://localhost:8081/issues.json,826,0,0
+1592058161881,813,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-20,text,true,,1197,428,20,20,http://localhost:8081/issues.json,813,0,0
+1592058161911,848,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,true,,13094,159,20,20,http://localhost:8081/issues.json,848,0,0
+1592058161942,884,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,true,,13094,159,20,20,http://localhost:8081/issues.json,884,0,0
+1592058161986,864,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,1185,163,20,20,http://localhost:8081/issues/462.json,864,0,0
+1592058162025,858,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-7,,true,,928,354,20,20,http://localhost:8081/issues/454.json,0,0,0
+1592058162068,858,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-15,,true,,511,246,20,20,http://localhost:8081/issues/451.json,0,0,0
+1592058162113,835,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-16,,true,,511,246,20,20,http://localhost:8081/issues/452.json,0,0,0
+1592058162181,798,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-14,text,true,,1197,428,20,20,http://localhost:8081/issues.json,798,0,0
+1592058162250,775,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-13,text,true,,1197,428,20,20,http://localhost:8081/issues.json,775,0,0
+1592058162275,806,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-8,,true,,928,354,20,20,http://localhost:8081/issues/455.json,0,0,0
+1592058162308,813,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,1185,163,20,20,http://localhost:8081/issues/463.json,813,0,0
+1592058162350,805,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-11,,true,,928,354,20,20,http://localhost:8081/issues/456.json,0,0,0
+1592058162387,814,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-12,,true,,928,354,20,20,http://localhost:8081/issues/457.json,0,0,0
+1592058162421,827,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-17,,true,,928,354,20,20,http://localhost:8081/issues/458.json,0,0,0
+1592058162460,848,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-18,,true,,928,354,20,20,http://localhost:8081/issues/459.json,0,0,0
+1592058162497,859,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,928,354,20,20,http://localhost:8081/issues/460.json,0,0,0
+1592058162549,854,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,928,354,20,20,http://localhost:8081/issues/461.json,0,0,0
+1592058162583,860,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,511,246,20,20,http://localhost:8081/issues/453.json,0,0,0
+1592058162623,884,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,13166,159,20,20,http://localhost:8081/issues.json,884,0,1
+1592058162653,879,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,text,true,,1185,163,20,20,http://localhost:8081/issues/464.json,879,0,0
+1592058162695,856,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,text,true,,1185,163,20,20,http://localhost:8081/issues/465.json,856,0,0
+1592058162760,823,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,true,,1197,428,20,20,http://localhost:8081/issues.json,823,0,0
+1592058162826,797,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,true,,1197,428,20,20,http://localhost:8081/issues.json,797,0,0
+1592058162850,815,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-6,,true,,928,354,20,20,http://localhost:8081/issues/462.json,0,0,0
+1592058162883,820,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-7,,true,,511,246,20,20,http://localhost:8081/issues/454.json,0,0,0
+1592058162927,844,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,text,true,,13154,159,20,20,http://localhost:8081/issues.json,844,0,0
+1592058162950,875,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,text,true,,13154,159,20,20,http://localhost:8081/issues.json,875,0,0
+1592058162979,870,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,text,true,,1185,163,20,20,http://localhost:8081/issues/466.json,870,0,0
+1592058163025,847,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,text,true,,1185,163,20,20,http://localhost:8081/issues/467.json,847,0,0
+1592058163082,816,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-8,,true,,511,246,20,20,http://localhost:8081/issues/455.json,0,0,0
+1592058163121,815,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-5,,true,,928,354,20,20,http://localhost:8081/issues/463.json,0,0,0
+1592058163156,826,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-11,,true,,511,246,20,20,http://localhost:8081/issues/456.json,0,0,0
+1592058163201,806,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-12,,true,,511,246,20,20,http://localhost:8081/issues/457.json,0,0,0
+1592058163248,785,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-17,,true,,511,246,20,20,http://localhost:8081/issues/458.json,0,0,0
+1592058163308,756,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-18,,true,,511,246,20,20,http://localhost:8081/issues/459.json,0,0,0
+1592058163356,735,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,511,246,20,20,http://localhost:8081/issues/460.json,0,0,0
+1592058163404,730,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,511,246,20,20,http://localhost:8081/issues/461.json,0,0,0
+1592058163443,792,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,13247,159,20,20,http://localhost:8081/issues.json,792,0,1
+1592058163508,794,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1197,428,20,20,http://localhost:8081/issues.json,794,0,0
+1592058163532,820,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-19,,true,,928,354,20,20,http://localhost:8081/issues/464.json,0,0,0
+1592058163551,848,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-20,,true,,928,354,20,20,http://localhost:8081/issues/465.json,0,0,0
+1592058163584,855,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,true,,1185,163,20,20,http://localhost:8081/issues/468.json,855,0,0
+1592058163623,838,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,true,,1185,163,20,20,http://localhost:8081/issues/469.json,838,0,0
+1592058163665,819,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-6,,true,,511,246,20,20,http://localhost:8081/issues/462.json,0,0,0
+1592058163703,843,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,13259,159,20,20,http://localhost:8081/issues.json,843,0,1
+1592058163771,809,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-15,text,true,,1197,428,20,20,http://localhost:8081/issues.json,809,0,0
+1592058163825,801,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-16,text,true,,1197,428,20,20,http://localhost:8081/issues.json,801,0,0
+1592058163849,821,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-14,,true,,928,354,20,20,http://localhost:8081/issues/466.json,0,0,0
+1592058163872,842,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-13,,true,,928,354,20,20,http://localhost:8081/issues/467.json,0,0,0
+1592058163898,897,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,true,,13233,159,20,20,http://localhost:8081/issues.json,897,0,1
+1592058163937,884,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-5,,true,,511,246,20,20,http://localhost:8081/issues/463.json,0,0,0
+1592058163982,894,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,text,true,,13246,159,20,20,http://localhost:8081/issues.json,894,0,1
+1592058164008,924,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,text,true,,13246,159,20,20,http://localhost:8081/issues.json,924,0,1
+1592058164034,964,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,text,true,,13246,159,20,20,http://localhost:8081/issues.json,964,0,0
+1592058164064,988,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,text,true,,13246,159,20,20,http://localhost:8081/issues.json,988,0,1
+1592058164091,1018,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,13246,159,20,20,http://localhost:8081/issues.json,1018,0,1
+1592058164135,1037,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,13246,159,20,20,http://localhost:8081/issues.json,1037,0,0
+1592058164235,974,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1197,428,20,20,http://localhost:8081/issues.json,974,0,0
+1592058164303,953,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1185,163,20,20,http://localhost:8081/issues/470.json,953,0,0
+1592058164352,944,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-19,,true,,511,246,20,20,http://localhost:8081/issues/464.json,0,0,0
+1592058164399,933,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-20,,true,,511,246,20,20,http://localhost:8081/issues/465.json,0,0,0
+1592058164439,950,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-10,,true,,928,354,20,20,http://localhost:8081/issues/468.json,0,0,0
+1592058164461,1015,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-9,,true,,928,354,20,20,http://localhost:8081/issues/469.json,0,0,0
+1592058164484,1066,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,13271,159,20,20,http://localhost:8081/issues.json,1066,0,1
+1592058164547,1038,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,1197,428,20,20,http://localhost:8081/issues.json,1038,0,0
+1592058164581,1041,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,text,true,,1185,163,20,20,http://localhost:8081/issues/471.json,1041,0,0
+1592058164626,1021,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,text,true,,1185,163,20,20,http://localhost:8081/issues/472.json,1021,0,0
+1592058164670,1003,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-14,,true,,511,246,20,20,http://localhost:8081/issues/466.json,0,0,0
+1592058164714,987,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-13,,true,,511,246,20,20,http://localhost:8081/issues/467.json,0,0,0
+1592058164796,951,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,true,,1197,428,20,20,http://localhost:8081/issues.json,951,0,0
+1592058164825,992,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,13247,159,20,20,http://localhost:8081/issues.json,992,0,0
+1592058164877,974,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-11,text,true,,1197,428,20,20,http://localhost:8081/issues.json,974,0,0
+1592058164933,964,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-12,text,true,,1197,428,20,20,http://localhost:8081/issues.json,964,0,0
+1592058164998,943,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-17,text,true,,1197,428,20,20,http://localhost:8081/issues.json,943,0,0
+1592058165053,946,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-18,text,true,,1197,428,20,20,http://localhost:8081/issues.json,946,0,0
+1592058165110,937,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,1197,428,20,20,http://localhost:8081/issues.json,937,0,0
+1592058165172,923,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1197,428,20,20,http://localhost:8081/issues.json,923,0,0
+1592058165210,924,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1185,163,20,20,http://localhost:8081/issues/473.json,924,0,0
+1592058165257,914,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,928,354,20,20,http://localhost:8081/issues/470.json,0,0,0
+1592058165296,956,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,text,true,,13106,159,20,20,http://localhost:8081/issues.json,956,0,1
+1592058165332,975,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,text,true,,13106,159,20,20,http://localhost:8081/issues.json,975,0,0
+1592058165390,946,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-10,,true,,511,246,20,20,http://localhost:8081/issues/468.json,0,0,0
+1592058165478,886,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-9,,true,,511,246,20,20,http://localhost:8081/issues/469.json,0,0,0
+1592058165551,848,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,1197,428,20,20,http://localhost:8081/issues.json,848,0,0
+1592058165586,851,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,1185,163,20,20,http://localhost:8081/issues/474.json,851,0,0
+1592058165623,855,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-15,,true,,928,354,20,20,http://localhost:8081/issues/471.json,0,0,0
+1592058165648,883,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-16,,true,,928,354,20,20,http://localhost:8081/issues/472.json,0,0,0
+1592058165675,926,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,text,true,,13134,159,20,20,http://localhost:8081/issues.json,926,0,0
+1592058165703,953,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,text,true,,13134,159,20,20,http://localhost:8081/issues.json,953,0,0
+1592058165748,943,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,true,,1185,163,20,20,http://localhost:8081/issues/475.json,943,0,0
+1592058165827,897,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,1197,428,20,20,http://localhost:8081/issues.json,897,0,0
+1592058165852,913,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,text,true,,1185,163,20,20,http://localhost:8081/issues/476.json,913,0,0
+1592058165899,890,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,text,true,,1185,163,20,20,http://localhost:8081/issues/477.json,890,0,0
+1592058165943,870,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,text,true,,1185,163,20,20,http://localhost:8081/issues/478.json,870,0,0
+1592058166000,838,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,text,true,,1185,163,20,20,http://localhost:8081/issues/479.json,838,0,0
+1592058166048,814,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,1185,163,20,20,http://localhost:8081/issues/480.json,814,0,0
+1592058166096,791,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1185,163,20,20,http://localhost:8081/issues/481.json,791,0,0
+1592058166136,784,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,928,354,20,20,http://localhost:8081/issues/473.json,0,0,0
+1592058166172,804,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,511,246,20,20,http://localhost:8081/issues/470.json,0,0,0
+1592058166254,759,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-19,text,true,,1197,428,20,20,http://localhost:8081/issues.json,759,0,0
+1592058166309,752,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-20,text,true,,1197,428,20,20,http://localhost:8081/issues.json,752,0,0
+1592058166336,794,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,true,,13094,159,20,20,http://localhost:8081/issues.json,794,0,1
+1592058166365,829,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,true,,13094,159,20,20,http://localhost:8081/issues.json,829,0,0
+1592058166399,820,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,1185,163,20,20,http://localhost:8081/issues/482.json,820,0,0
+1592058166437,816,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-7,,true,,928,354,20,20,http://localhost:8081/issues/474.json,0,0,0
+1592058166479,837,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-15,,true,,511,246,20,20,http://localhost:8081/issues/471.json,0,0,0
+1592058166531,819,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-16,,true,,511,246,20,20,http://localhost:8081/issues/472.json,0,0,0
+1592058166601,807,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-14,text,true,,1197,428,20,20,http://localhost:8081/issues.json,807,0,0
+1592058166657,849,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-13,text,true,,1197,428,20,20,http://localhost:8081/issues.json,848,0,0
+1592058166691,871,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-8,,true,,928,354,20,20,http://localhost:8081/issues/475.json,0,0,0
+1592058166766,858,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-11,,true,,928,354,20,20,http://localhost:8081/issues/476.json,0,0,0
+1592058166789,890,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-12,,true,,928,354,20,20,http://localhost:8081/issues/477.json,0,0,0
+1592058166838,895,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-18,,true,,928,354,20,20,http://localhost:8081/issues/479.json,0,0,0
+1592058166887,919,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,928,354,20,20,http://localhost:8081/issues/481.json,0,0,0
+1592058166920,934,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,511,246,20,20,http://localhost:8081/issues/473.json,0,0,0
+1592058167013,869,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,text,true,,1185,163,20,20,http://localhost:8081/issues/484.json,869,0,0
+1592058167062,851,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,text,true,,1185,163,20,20,http://localhost:8081/issues/485.json,851,0,0
+1592058167131,820,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,true,,1197,428,20,20,http://localhost:8081/issues.json,820,0,0
+1592058167219,784,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-6,,true,,928,354,20,20,http://localhost:8081/issues/482.json,0,0,0
+1592058167253,800,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-7,,true,,511,246,20,20,http://localhost:8081/issues/474.json,0,0,0
+1592058167330,800,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,text,true,,13142,159,20,20,http://localhost:8081/issues.json,800,0,0
+1592058167351,840,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,text,true,,13142,159,20,20,http://localhost:8081/issues.json,840,0,0
+1592058167409,811,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,text,true,,1185,163,20,20,http://localhost:8081/issues/486.json,811,0,0
+1592058167506,747,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,text,true,,1185,163,20,20,http://localhost:8081/issues/487.json,747,0,0
+1592058167562,722,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-8,,true,,511,246,20,20,http://localhost:8081/issues/475.json,0,0,0
+1592058167624,694,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-11,,true,,511,246,20,20,http://localhost:8081/issues/476.json,0,0,0
+1592058167680,675,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-12,,true,,511,246,20,20,http://localhost:8081/issues/477.json,0,0,0
+1592058167733,654,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-18,,true,,511,246,20,20,http://localhost:8081/issues/479.json,0,0,0
+1592058167806,619,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,511,246,20,20,http://localhost:8081/issues/481.json,0,0,0
+1592058166725,1714,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,1185,163,20,20,http://localhost:8081/issues/483.json,1714,0,0
+1592058166813,1688,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-17,,true,,928,354,20,20,http://localhost:8081/issues/478.json,0,0,0
+1592058167855,662,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,13210,159,20,20,http://localhost:8081/issues.json,662,0,0
+1592058167882,657,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-19,,true,,928,354,20,20,http://localhost:8081/issues/484.json,0,0,0
+1592058167951,599,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,true,,1185,163,20,20,http://localhost:8081/issues/488.json,599,0,0
+1592058167913,681,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-20,,true,,928,354,20,20,http://localhost:8081/issues/485.json,0,0,0
+1592058168003,621,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-6,,true,,511,246,20,20,http://localhost:8081/issues/482.json,0,0,0
+1592058168053,578,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,13234,159,20,20,http://localhost:8081/issues.json,578,0,0
+1592058166862,1787,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,928,354,20,20,http://localhost:8081/issues/480.json,0,0,0
+1592058168220,450,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-14,,true,,928,354,20,20,http://localhost:8081/issues/486.json,0,0,0
+1592058168192,513,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-16,text,true,,1197,428,20,20,http://localhost:8081/issues.json,513,0,0
+1592058168131,600,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-15,text,true,,1197,428,20,20,http://localhost:8081/issues.json,600,0,0
+1592058168254,509,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-13,,true,,928,354,20,20,http://localhost:8081/issues/487.json,0,0,0
+1592058168285,496,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,true,,13258,159,20,20,http://localhost:8081/issues.json,496,0,1
+1592058168426,427,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,13245,159,20,20,http://localhost:8081/issues.json,427,0,0
+1592058166977,1886,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,13245,159,20,20,http://localhost:8081/issues.json,1886,0,0
+1592058167195,1677,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,true,,1197,428,20,20,http://localhost:8081/issues.json,1677,0,0
+1592058168331,547,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,text,true,,13245,159,20,20,http://localhost:8081/issues.json,547,0,1
+1592058168439,464,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-5,,true,,928,354,20,20,http://localhost:8081/issues/483.json,0,0,0
+1592058168539,380,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-19,,true,,511,246,20,20,http://localhost:8081/issues/484.json,0,0,0
+1592058168501,430,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-17,,true,,511,246,20,20,http://localhost:8081/issues/478.json,0,0,0
+1592058168355,596,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,text,true,,13220,159,20,20,http://localhost:8081/issues.json,595,0,1
+1592058168594,364,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-20,,true,,511,246,20,20,http://localhost:8081/issues/485.json,0,0,0
+1592058168551,435,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-10,,true,,928,354,20,20,http://localhost:8081/issues/488.json,0,0,0
+1592058168517,472,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1197,428,20,20,http://localhost:8081/issues.json,472,0,0
+1592058168631,366,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,1197,428,20,20,http://localhost:8081/issues.json,366,0,0
+1592058168649,351,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,511,246,20,20,http://localhost:8081/issues/480.json,0,0,0
+1592058168624,384,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,13271,159,20,20,http://localhost:8081/issues.json,384,0,1
+1592058168388,642,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,text,true,,13258,159,20,20,http://localhost:8081/issues.json,642,0,0
+1592058168763,272,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-13,,true,,511,246,20,20,http://localhost:8081/issues/487.json,0,0,0
+1592058168670,396,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-14,,true,,511,246,20,20,http://localhost:8081/issues/486.json,0,0,0
+1592058168732,343,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,text,true,,1185,163,20,20,http://localhost:8081/issues/490.json,343,0,0
+1592058168864,221,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1197,428,20,20,http://localhost:8081/issues.json,221,0,0
+1592058168854,234,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1197,428,20,20,http://localhost:8081/issues.json,234,0,0
+1592058168781,315,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,true,,1197,428,20,20,http://localhost:8081/issues.json,315,0,0
+1592058168872,246,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,true,,1185,163,20,20,http://localhost:8081/issues/491.json,245,0,0
+1592058168705,420,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,text,true,,1185,163,20,20,http://localhost:8081/issues/489.json,420,0,0
+1592058168878,248,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-11,text,true,,1197,428,20,20,http://localhost:8081/issues.json,248,0,0
+1592058168903,243,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-5,,true,,511,246,20,20,http://localhost:8081/issues/483.json,0,0,0
+1592058168951,206,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-12,text,true,,1197,428,20,20,http://localhost:8081/issues.json,206,0,0
+1592058168989,196,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1185,163,20,20,http://localhost:8081/issues/492.json,196,0,0
+1592058168986,205,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-10,,true,,511,246,20,20,http://localhost:8081/issues/488.json,0,0,0
+1592058168998,210,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,1185,163,20,20,http://localhost:8081/issues/493.json,210,0,0
+1592058168920,289,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,text,true,,13160,159,20,20,http://localhost:8081/issues.json,289,0,0
+1592058168931,312,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,text,true,,13160,159,20,20,http://localhost:8081/issues.json,312,0,1
+1592058169008,240,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,1197,428,20,20,http://localhost:8081/issues.json,240,0,0
+1592058169031,219,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-18,text,true,,1197,428,20,20,http://localhost:8081/issues.json,219,0,0
+1592058168959,301,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,text,true,,13173,159,20,20,http://localhost:8081/issues.json,301,0,0
+1592058169001,265,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,13173,159,20,20,http://localhost:8081/issues.json,265,0,0
+1592058169035,260,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,text,true,,13148,159,20,20,http://localhost:8081/issues.json,260,0,1
+1592058169085,217,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1185,163,20,20,http://localhost:8081/issues/496.json,217,0,0
+1592058169096,210,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,true,,1185,163,20,20,http://localhost:8081/issues/494.json,210,0,0
+1592058169075,257,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-15,,true,,928,354,20,20,http://localhost:8081/issues/490.json,0,0,0
+1592058169088,230,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1185,163,20,20,http://localhost:8081/issues/495.json,230,0,0
+1592058169067,269,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,text,true,,13123,159,20,20,http://localhost:8081/issues.json,269,0,0
+1592058169126,216,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-16,,true,,928,354,20,20,http://localhost:8081/issues/489.json,0,0,0
+1592058169118,233,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-9,,true,,928,354,20,20,http://localhost:8081/issues/491.json,0,0,0
+1592058169126,231,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,text,true,,1185,163,20,20,http://localhost:8081/issues/497.json,231,0,0
+1592058169157,234,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,text,true,,1185,163,20,20,http://localhost:8081/issues/498.json,234,0,0
+1592058169210,198,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-19,text,true,,1197,428,20,20,http://localhost:8081/issues.json,198,0,0
+1592058169185,226,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,928,354,20,20,http://localhost:8081/issues/492.json,0,0,0
+1592058169146,280,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,13159,159,20,20,http://localhost:8081/issues.json,280,0,1
+1592058169208,239,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-7,,true,,928,354,20,20,http://localhost:8081/issues/493.json,0,0,0
+1592058169243,211,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-17,text,true,,1197,428,20,20,http://localhost:8081/issues.json,211,0,0
+1592058169192,279,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,true,,13159,159,20,20,http://localhost:8081/issues.json,279,0,0
+1592058169248,230,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,1185,163,20,20,http://localhost:8081/issues/499.json,230,0,0
+1592058169261,222,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-20,text,true,,1197,428,20,20,http://localhost:8081/issues.json,222,0,0
+1592058169250,242,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,text,true,,1185,163,20,20,http://localhost:8081/issues/500.json,242,0,0
+1592058169302,218,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,928,354,20,20,http://localhost:8081/issues/496.json,0,0,0
+1592058169295,228,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-13,text,true,,1197,428,20,20,http://localhost:8081/issues.json,228,0,0
+1592058169306,218,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-8,,true,,928,354,20,20,http://localhost:8081/issues/494.json,0,0,0
+1592058169266,269,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,1197,428,20,20,http://localhost:8081/issues.json,268,0,0
+1592058169333,215,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,928,354,20,20,http://localhost:8081/issues/495.json,0,0,0
+1592058169333,233,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-15,,true,,511,246,20,20,http://localhost:8081/issues/490.json,0,0,0
+1592058169342,240,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-16,,true,,511,246,20,20,http://localhost:8081/issues/489.json,0,0,0
+1592058169408,189,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,text,true,,1185,163,20,20,http://localhost:8081/issues/501.json,189,0,0
+1592058169351,252,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-9,,true,,511,246,20,20,http://localhost:8081/issues/491.json,0,0,0
+1592058169358,259,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-11,,true,,928,354,20,20,http://localhost:8081/issues/497.json,0,0,0
+1592058169411,210,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,511,246,20,20,http://localhost:8081/issues/492.json,0,0,0
+1592058169336,300,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-14,text,true,,1197,428,20,20,http://localhost:8081/issues.json,300,0,0
+1592058169426,219,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,1197,428,20,20,http://localhost:8081/issues.json,219,0,0
+1592058169447,209,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-7,,true,,511,246,20,20,http://localhost:8081/issues/493.json,0,0,0
+1592058169391,284,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-12,,true,,928,354,20,20,http://localhost:8081/issues/498.json,0,0,0
+1592058169472,204,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,true,,1197,428,20,20,http://localhost:8081/issues.json,204,0,0
+1592058169483,224,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,text,true,,1185,163,20,20,http://localhost:8081/issues/503.json,224,0,0
+1592058169492,220,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-18,,true,,928,354,20,20,http://localhost:8081/issues/500.json,0,0,0
+1592058169454,264,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,text,true,,1185,163,20,20,http://localhost:8081/issues/502.json,264,0,0
+1592058169478,254,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-6,,true,,928,354,20,20,http://localhost:8081/issues/499.json,0,0,0
+1592058169520,218,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,511,246,20,20,http://localhost:8081/issues/496.json,0,0,0
+1592058169524,225,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,text,true,,1185,163,20,20,http://localhost:8081/issues/504.json,225,0,0
+1592058169524,235,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-8,,true,,511,246,20,20,http://localhost:8081/issues/494.json,0,0,0
+1592058169548,229,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,511,246,20,20,http://localhost:8081/issues/495.json,0,0,0
+1592058169535,249,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,1185,163,20,20,http://localhost:8081/issues/505.json,249,0,0
+1592058169598,205,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-19,,true,,928,354,20,20,http://localhost:8081/issues/501.json,0,0,0
+1592058169617,196,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-11,,true,,511,246,20,20,http://localhost:8081/issues/497.json,0,0,0
+1592058169582,240,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,text,true,,13171,159,20,20,http://localhost:8081/issues.json,240,0,1
+1592058169603,244,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,true,,13183,159,20,20,http://localhost:8081/issues.json,244,0,1
+1592058169645,207,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,1185,163,20,20,http://localhost:8081/issues/507.json,207,0,0
+1592058169636,226,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,text,true,,1185,163,20,20,http://localhost:8081/issues/506.json,226,0,0
+1592058169622,255,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,13196,159,20,20,http://localhost:8081/issues.json,255,0,0
+1592058169675,207,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-12,,true,,511,246,20,20,http://localhost:8081/issues/498.json,0,0,0
+1592058169656,249,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,13196,159,20,20,http://localhost:8081/issues.json,249,0,1
+1592058169708,200,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-20,,true,,928,354,20,20,http://localhost:8081/issues/503.json,0,0,0
+1592058169567,342,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,text,true,,13196,159,20,20,http://localhost:8081/issues.json,341,0,0
+1592058169676,236,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,true,,1185,163,20,20,http://localhost:8081/issues/508.json,236,0,0
+1592058169713,201,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-18,,true,,511,246,20,20,http://localhost:8081/issues/500.json,0,0,0
+1592058169719,230,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-17,,true,,928,354,20,20,http://localhost:8081/issues/502.json,0,0,0
+1592058169733,224,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-6,,true,,511,246,20,20,http://localhost:8081/issues/499.json,0,0,0
+1592058169750,212,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-13,,true,,928,354,20,20,http://localhost:8081/issues/504.json,0,0,0
+1592058169777,224,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,13246,159,20,20,http://localhost:8081/issues.json,224,0,0
+1592058169803,205,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-19,,true,,511,246,20,20,http://localhost:8081/issues/501.json,0,0,0
+1592058169759,256,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,true,,13246,159,20,20,http://localhost:8081/issues.json,256,0,1
+1592058169784,247,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,928,354,20,20,http://localhost:8081/issues/505.json,0,0,0
+1592058169739,296,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,13271,159,20,20,http://localhost:8081/issues.json,296,0,0
+1592058169835,220,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-16,text,true,,1197,428,20,20,http://localhost:8081/issues.json,220,0,0
+1592058169814,244,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,text,true,,13284,159,20,20,http://localhost:8081/issues.json,244,0,0
+1592058169853,210,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-5,,true,,928,354,20,20,http://localhost:8081/issues/507.json,0,0,0
+1592058169850,213,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,true,,1197,428,20,20,http://localhost:8081/issues.json,213,0,0
+1592058169877,220,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1197,428,20,20,http://localhost:8081/issues.json,220,0,0
+1592058169906,195,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,1197,428,20,20,http://localhost:8081/issues.json,195,0,0
+1592058169908,212,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-20,,true,,511,246,20,20,http://localhost:8081/issues/503.json,0,0,0
+1592058169909,224,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-15,text,true,,1197,428,20,20,http://localhost:8081/issues.json,224,0,0
+1592058169862,285,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-14,,true,,928,354,20,20,http://localhost:8081/issues/506.json,0,0,0
+1592058169949,214,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-17,,true,,511,246,20,20,http://localhost:8081/issues/502.json,0,0,0
+1592058169912,257,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-10,,true,,928,354,20,20,http://localhost:8081/issues/508.json,0,0,0
+1592058169883,310,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,text,true,,13208,159,20,20,http://localhost:8081/issues.json,310,0,0
+1592058170002,209,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1197,428,20,20,http://localhost:8081/issues.json,209,0,0
+1592058169962,255,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-13,,true,,511,246,20,20,http://localhost:8081/issues/504.json,0,0,0
+1592058169914,318,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,text,true,,13233,159,20,20,http://localhost:8081/issues.json,318,0,0
+1592058170015,235,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,true,,1197,428,20,20,http://localhost:8081/issues.json,235,0,0
+1592058170036,228,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1197,428,20,20,http://localhost:8081/issues.json,228,0,0
+1592058170031,236,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,511,246,20,20,http://localhost:8081/issues/505.json,0,0,0
+1592058169957,312,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,13233,159,20,20,http://localhost:8081/issues.json,311,0,1
+1592058170008,261,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,text,true,,13221,159,20,20,http://localhost:8081/issues.json,261,0,1
+1592058170055,227,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,text,true,,1185,163,20,20,http://localhost:8081/issues/509.json,227,0,0
+1592058170097,204,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1185,163,20,20,http://localhost:8081/issues/511.json,204,0,0
+1592058170101,201,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,1185,163,20,20,http://localhost:8081/issues/512.json,201,0,0
+1592058170063,249,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-5,,true,,511,246,20,20,http://localhost:8081/issues/507.json,0,0,0
+1592058170133,205,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,text,true,,1185,163,20,20,http://localhost:8081/issues/513.json,205,0,0
+1592058170063,268,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,true,,1185,163,20,20,http://localhost:8081/issues/510.json,268,0,0
+1592058170148,194,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-14,,true,,511,246,20,20,http://localhost:8081/issues/506.json,0,0,0
+1592058170059,288,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-11,text,true,,1197,428,20,20,http://localhost:8081/issues.json,288,0,0
+1592058170169,199,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-10,,true,,511,246,20,20,http://localhost:8081/issues/508.json,0,0,0
+1592058170211,164,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1185,163,20,20,http://localhost:8081/issues/514.json,164,0,0
+1592058170193,192,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-12,text,true,,1197,428,20,20,http://localhost:8081/issues.json,192,0,0
+1592058170121,264,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,text,true,,13197,159,20,20,http://localhost:8081/issues.json,264,0,0
+1592058170251,165,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,true,,1185,163,20,20,http://localhost:8081/issues/515.json,165,0,0
+1592058170232,184,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-18,text,true,,1197,428,20,20,http://localhost:8081/issues.json,184,0,0
+1592058170264,157,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1185,163,20,20,http://localhost:8081/issues/516.json,157,0,0
+1592058170217,245,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,text,true,,13148,159,20,20,http://localhost:8081/issues.json,245,0,1
+1592058170164,303,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,text,true,,13185,159,20,20,http://localhost:8081/issues.json,303,0,1
+1592058170282,194,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-16,,true,,928,354,20,20,http://localhost:8081/issues/509.json,0,0,0
+1592058170269,208,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-19,text,true,,1197,428,20,20,http://localhost:8081/issues.json,208,0,0
+1592058170268,230,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,13148,159,20,20,http://localhost:8081/issues.json,230,0,0
+1592058170301,213,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,928,354,20,20,http://localhost:8081/issues/511.json,0,0,0
+1592058170269,254,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,1197,428,20,20,http://localhost:8081/issues.json,254,0,0
+1592058170302,225,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-7,,true,,928,354,20,20,http://localhost:8081/issues/512.json,0,0,0
+1592058170343,197,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-9,,true,,928,354,20,20,http://localhost:8081/issues/510.json,0,0,0
+1592058170343,224,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-15,,true,,928,354,20,20,http://localhost:8081/issues/513.json,0,0,0
+1592058170347,242,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,text,true,,1185,163,20,20,http://localhost:8081/issues/517.json,242,0,0
+1592058170313,277,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,13134,159,20,20,http://localhost:8081/issues.json,277,0,0
+1592058170385,237,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,text,true,,1185,163,20,20,http://localhost:8081/issues/518.json,237,0,0
+1592058170368,261,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,true,,13158,159,20,20,http://localhost:8081/issues.json,261,0,1
+1592058170417,214,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-8,,true,,928,354,20,20,http://localhost:8081/issues/515.json,0,0,0
+1592058170385,249,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-20,text,true,,1197,428,20,20,http://localhost:8081/issues.json,249,0,0
+1592058170375,260,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,928,354,20,20,http://localhost:8081/issues/514.json,0,0,0
+1592058170343,304,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,text,true,,13158,159,20,20,http://localhost:8081/issues.json,304,0,0
+1592058170417,257,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,text,true,,1185,163,20,20,http://localhost:8081/issues/519.json,257,0,0
+1592058170477,200,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,text,true,,1185,163,20,20,http://localhost:8081/issues/520.json,200,0,0
+1592058170421,262,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,928,354,20,20,http://localhost:8081/issues/516.json,0,0,0
+1592058170476,218,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-16,,true,,511,246,20,20,http://localhost:8081/issues/509.json,0,0,0
+1592058170514,192,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,511,246,20,20,http://localhost:8081/issues/511.json,0,0,0
+1592058170499,224,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,1197,428,20,20,http://localhost:8081/issues.json,224,0,0
+1592058170467,257,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-17,text,true,,1197,428,20,20,http://localhost:8081/issues.json,257,0,0
+1592058170527,204,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-7,,true,,511,246,20,20,http://localhost:8081/issues/512.json,0,0,0
+1592058170463,276,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-13,text,true,,1197,428,20,20,http://localhost:8081/issues.json,276,0,0
+1592058170540,208,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-9,,true,,511,246,20,20,http://localhost:8081/issues/510.json,0,0,0
+1592058170523,241,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,1185,163,20,20,http://localhost:8081/issues/521.json,241,0,0
+1592058170568,208,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-15,,true,,511,246,20,20,http://localhost:8081/issues/513.json,0,0,0
+1592058170590,190,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,1197,428,20,20,http://localhost:8081/issues.json,189,0,0
+1592058170631,169,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-8,,true,,511,246,20,20,http://localhost:8081/issues/515.json,0,0,0
+1592058170636,195,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,511,246,20,20,http://localhost:8081/issues/514.json,0,0,0
+1592058170634,194,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,text,true,,1185,163,20,20,http://localhost:8081/issues/522.json,194,0,0
+1592058170622,199,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-12,,true,,928,354,20,20,http://localhost:8081/issues/518.json,0,0,0
+1592058170590,226,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-11,,true,,928,354,20,20,http://localhost:8081/issues/517.json,0,0,0
+1592058170629,187,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,true,,1197,428,20,20,http://localhost:8081/issues.json,187,0,0
+1592058170647,211,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-14,text,true,,1197,428,20,20,http://localhost:8081/issues.json,211,0,0
+1592058170674,220,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-18,,true,,928,354,20,20,http://localhost:8081/issues/519.json,0,0,0
+1592058170683,211,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,511,246,20,20,http://localhost:8081/issues/516.json,0,0,0
+1592058170678,227,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-19,,true,,928,354,20,20,http://localhost:8081/issues/520.json,0,0,0
+1592058170695,216,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,text,true,,13134,159,20,20,http://localhost:8081/issues.json,216,0,0
+1592058170723,198,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,1185,163,20,20,http://localhost:8081/issues/525.json,198,0,0
+1592058170707,237,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,13134,159,20,20,http://localhost:8081/issues.json,236,0,1
+1592058170724,220,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,text,true,,1185,163,20,20,http://localhost:8081/issues/523.json,220,0,0
+1592058170739,218,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,text,true,,1185,163,20,20,http://localhost:8081/issues/524.json,218,0,0
+1592058170764,202,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-6,,true,,928,354,20,20,http://localhost:8081/issues/521.json,0,0,0
+1592058170780,216,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,1185,163,20,20,http://localhost:8081/issues/526.json,216,0,0
+1592058170749,247,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,true,,13171,159,20,20,http://localhost:8081/issues.json,247,0,1
+1592058170838,179,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,true,,1185,163,20,20,http://localhost:8081/issues/527.json,179,0,0
+1592058170731,298,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,13183,159,20,20,http://localhost:8081/issues.json,298,0,1
+1592058170838,192,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-12,,true,,511,246,20,20,http://localhost:8081/issues/518.json,0,0,0
+1592058170777,266,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,text,true,,13183,159,20,20,http://localhost:8081/issues.json,265,0,0
+1592058170800,244,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,true,,13183,159,20,20,http://localhost:8081/issues.json,244,0,1
+1592058170838,229,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-11,,true,,511,246,20,20,http://localhost:8081/issues/517.json,0,0,0
+1592058170838,232,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-20,,true,,928,354,20,20,http://localhost:8081/issues/522.json,0,0,0
+1592058170858,214,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,text,true,,1185,163,20,20,http://localhost:8081/issues/528.json,214,0,0
+1592058170894,184,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-18,,true,,511,246,20,20,http://localhost:8081/issues/519.json,0,0,0
+1592058170838,257,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,13183,159,20,20,http://localhost:8081/issues.json,257,0,1
+1592058170905,198,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-19,,true,,511,246,20,20,http://localhost:8081/issues/520.json,0,0,0
+1592058170922,192,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,928,354,20,20,http://localhost:8081/issues/525.json,0,0,0
+1592058170895,242,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,13234,159,20,20,http://localhost:8081/issues.json,242,0,0
+1592058170945,193,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-17,,true,,928,354,20,20,http://localhost:8081/issues/523.json,0,0,0
+1592058170957,196,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-13,,true,,928,354,20,20,http://localhost:8081/issues/524.json,0,0,0
+1592058170911,246,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-16,text,true,,1197,428,20,20,http://localhost:8081/issues.json,246,0,0
+1592058170944,217,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1197,428,20,20,http://localhost:8081/issues.json,217,0,0
+1592058170966,213,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-6,,true,,511,246,20,20,http://localhost:8081/issues/521.json,0,0,0
+1592058170996,197,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-5,,true,,928,354,20,20,http://localhost:8081/issues/526.json,0,0,0
+1592058170996,223,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,true,,1197,428,20,20,http://localhost:8081/issues.json,223,0,0
+1592058171043,186,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-15,text,true,,1197,428,20,20,http://localhost:8081/issues.json,186,0,0
+1592058171017,228,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-10,,true,,928,354,20,20,http://localhost:8081/issues/527.json,0,0,0
+1592058171030,216,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,1197,428,20,20,http://localhost:8081/issues.json,216,0,0
+1592058171044,232,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,true,,1197,428,20,20,http://localhost:8081/issues.json,232,0,0
+1592058171070,225,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-20,,true,,511,246,20,20,http://localhost:8081/issues/522.json,0,0,0
+1592058171072,267,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-14,,true,,928,354,20,20,http://localhost:8081/issues/528.json,0,0,0
+1592058171079,270,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,text,true,,13183,159,20,20,http://localhost:8081/issues.json,270,0,0
+1592058171095,265,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1197,428,20,20,http://localhost:8081/issues.json,265,0,0
+1592058171030,342,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,text,true,,13220,159,20,20,http://localhost:8081/issues.json,342,0,1
+1592058171138,258,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1197,428,20,20,http://localhost:8081/issues.json,258,0,0
+1592058171104,300,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,text,true,,13183,159,20,20,http://localhost:8081/issues.json,300,0,0
+1592058171153,260,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-13,,true,,511,246,20,20,http://localhost:8081/issues/524.json,0,0,0
+1592058171115,309,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,511,246,20,20,http://localhost:8081/issues/525.json,0,0,0
+1592058171138,289,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-17,,true,,511,246,20,20,http://localhost:8081/issues/523.json,0,0,0
+1592058171067,368,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,text,true,,13183,159,20,20,http://localhost:8081/issues.json,368,0,1
+1592058171161,286,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1185,163,20,20,http://localhost:8081/issues/529.json,286,0,0
+1592058171157,296,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,text,true,,1185,163,20,20,http://localhost:8081/issues/530.json,296,0,0
+1592058171193,261,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-5,,true,,511,246,20,20,http://localhost:8081/issues/526.json,0,0,0
+1592058171219,249,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,true,,1185,163,20,20,http://localhost:8081/issues/531.json,249,0,0
+1592058171246,235,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,1185,163,20,20,http://localhost:8081/issues/533.json,235,0,0
+1592058171245,239,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-10,,true,,511,246,20,20,http://localhost:8081/issues/527.json,0,0,0
+1592058171277,211,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,true,,1185,163,20,20,http://localhost:8081/issues/534.json,211,0,0
+1592058171229,271,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,text,true,,1185,163,20,20,http://localhost:8081/issues/532.json,271,0,0
+1592058171179,331,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,13184,159,20,20,http://localhost:8081/issues.json,331,0,1
+1592058171360,167,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1185,163,20,20,http://localhost:8081/issues/535.json,167,0,0
+1592058171341,189,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-14,,true,,511,246,20,20,http://localhost:8081/issues/528.json,0,0,0
+1592058171349,182,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-18,text,true,,1197,428,20,20,http://localhost:8081/issues.json,182,0,0
+1592058171396,152,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1185,163,20,20,http://localhost:8081/issues/536.json,152,0,0
+1592058171295,265,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,text,true,,13210,159,20,20,http://localhost:8081/issues.json,264,0,1
+1592058171373,208,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-12,text,true,,1197,428,20,20,http://localhost:8081/issues.json,208,0,0
+1592058171435,169,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-11,text,true,,1197,428,20,20,http://localhost:8081/issues.json,169,0,0
+1592058171404,209,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-19,text,true,,1197,428,20,20,http://localhost:8081/issues.json,209,0,0
+1592058171414,204,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,text,true,,13198,159,20,20,http://localhost:8081/issues.json,204,0,0
+1592058171428,200,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,text,true,,13173,159,20,20,http://localhost:8081/issues.json,200,0,0
+1592058171424,224,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,13173,159,20,20,http://localhost:8081/issues.json,224,0,1
+1592058171447,208,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,928,354,20,20,http://localhost:8081/issues/529.json,0,0,0
+1592058171482,186,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-7,,true,,928,354,20,20,http://localhost:8081/issues/533.json,0,0,0
+1592058171468,202,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-9,,true,,928,354,20,20,http://localhost:8081/issues/531.json,0,0,0
+1592058171454,269,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-16,,true,,928,354,20,20,http://localhost:8081/issues/530.json,0,0,0
+1592058171489,246,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-8,,true,,928,354,20,20,http://localhost:8081/issues/534.json,0,0,0
+1592058171484,252,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,true,,13159,159,20,20,http://localhost:8081/issues.json,251,0,1
+1592058171454,287,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,13159,159,20,20,http://localhost:8081/issues.json,287,0,0
+1592058171510,233,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,1197,428,20,20,http://localhost:8081/issues.json,233,0,0
+1592058171501,247,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-15,,true,,928,354,20,20,http://localhost:8081/issues/532.json,0,0,0
+1592058171549,238,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,928,354,20,20,http://localhost:8081/issues/536.json,0,0,0
+1592058171581,225,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,text,true,,1185,163,20,20,http://localhost:8081/issues/538.json,225,0,0
+1592058171531,275,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,text,true,,1185,163,20,20,http://localhost:8081/issues/537.json,275,0,0
+1592058171560,250,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-20,text,true,,1197,428,20,20,http://localhost:8081/issues.json,250,0,0
+1592058171605,250,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,text,true,,1185,163,20,20,http://localhost:8081/issues/540.json,250,0,0
+1592058171618,238,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-13,text,true,,1197,428,20,20,http://localhost:8081/issues.json,238,0,0
+1592058171531,326,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,text,true,,13182,159,20,20,http://localhost:8081/issues.json,326,0,0
+1592058171528,331,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,928,354,20,20,http://localhost:8081/issues/535.json,0,0,0
+1592058171614,255,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,text,true,,1185,163,20,20,http://localhost:8081/issues/539.json,255,0,0
+1592058171628,259,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-17,text,true,,1197,428,20,20,http://localhost:8081/issues.json,259,0,0
+1592058171668,231,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-7,,true,,511,246,20,20,http://localhost:8081/issues/533.json,0,0,0
+1592058171655,258,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,511,246,20,20,http://localhost:8081/issues/529.json,0,0,0
+1592058171648,266,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,1197,428,20,20,http://localhost:8081/issues.json,266,0,0
+1592058171723,203,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-16,,true,,511,246,20,20,http://localhost:8081/issues/530.json,0,0,0
+1592058171670,271,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-9,,true,,511,246,20,20,http://localhost:8081/issues/531.json,0,0,0
+1592058171735,216,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-8,,true,,511,246,20,20,http://localhost:8081/issues/534.json,0,0,0
+1592058171749,215,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-15,,true,,511,246,20,20,http://localhost:8081/issues/532.json,0,0,0
+1592058171736,235,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,true,,1197,428,20,20,http://localhost:8081/issues.json,235,0,0
+1592058171788,198,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,511,246,20,20,http://localhost:8081/issues/536.json,0,0,0
+1592058171743,249,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,1185,163,20,20,http://localhost:8081/issues/541.json,249,0,0
+1592058171741,257,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,1197,428,20,20,http://localhost:8081/issues.json,257,0,0
+1592058171806,199,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-18,,true,,928,354,20,20,http://localhost:8081/issues/537.json,0,0,0
+1592058171806,224,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-12,,true,,928,354,20,20,http://localhost:8081/issues/538.json,0,0,0
+1592058171855,191,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-11,,true,,928,354,20,20,http://localhost:8081/issues/540.json,0,0,0
+1592058171856,194,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,text,true,,1185,163,20,20,http://localhost:8081/issues/543.json,194,0,0
+1592058171857,223,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-14,text,true,,1197,428,20,20,http://localhost:8081/issues.json,223,0,0
+1592058171859,225,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,511,246,20,20,http://localhost:8081/issues/535.json,0,0,0
+1592058171869,238,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-19,,true,,928,354,20,20,http://localhost:8081/issues/539.json,0,0,0
+1592058171810,298,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,text,true,,1185,163,20,20,http://localhost:8081/issues/542.json,298,0,0
+1592058171888,223,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,text,true,,1185,163,20,20,http://localhost:8081/issues/544.json,223,0,0
+1592058171914,228,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,1185,163,20,20,http://localhost:8081/issues/545.json,228,0,0
+1592058171900,245,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,13159,159,20,20,http://localhost:8081/issues.json,245,0,0
+1592058171971,203,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,true,,1185,163,20,20,http://localhost:8081/issues/546.json,203,0,0
+1592058171942,239,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,true,,13171,159,20,20,http://localhost:8081/issues.json,239,0,0
+1592058171914,273,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,13171,159,20,20,http://localhost:8081/issues.json,273,0,0
+1592058171952,240,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,true,,13171,159,20,20,http://localhost:8081/issues.json,240,0,0
+1592058171998,217,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,1185,163,20,20,http://localhost:8081/issues/547.json,217,0,0
+1592058171927,290,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,text,true,,13171,159,20,20,http://localhost:8081/issues.json,290,0,0
+1592058171993,224,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-6,,true,,928,354,20,20,http://localhost:8081/issues/541.json,0,0,0
+1592058172006,224,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-18,,true,,511,246,20,20,http://localhost:8081/issues/537.json,0,0,0
+1592058171965,265,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,text,true,,13171,159,20,20,http://localhost:8081/issues.json,265,0,0
+1592058172046,207,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-11,,true,,511,246,20,20,http://localhost:8081/issues/540.json,0,0,0
+1592058172031,237,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-12,,true,,511,246,20,20,http://localhost:8081/issues/538.json,0,0,0
+1592058172051,239,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-13,,true,,928,354,20,20,http://localhost:8081/issues/543.json,0,0,0
+1592058172107,183,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-19,,true,,511,246,20,20,http://localhost:8081/issues/539.json,0,0,0
+1592058172080,211,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,text,true,,1185,163,20,20,http://localhost:8081/issues/548.json,211,0,0
+1592058171986,317,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,13183,159,20,20,http://localhost:8081/issues.json,317,0,1
+1592058172084,247,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,13222,159,20,20,http://localhost:8081/issues.json,247,0,1
+1592058172145,187,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,1197,428,20,20,http://localhost:8081/issues.json,187,0,0
+1592058172108,210,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-20,,true,,928,354,20,20,http://localhost:8081/issues/542.json,0,0,0
+1592058172142,199,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,928,354,20,20,http://localhost:8081/issues/545.json,0,0,0
+1592058172174,199,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-10,,true,,928,354,20,20,http://localhost:8081/issues/546.json,0,0,0
+1592058172192,199,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,true,,1197,428,20,20,http://localhost:8081/issues.json,199,0,0
+1592058172187,206,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1197,428,20,20,http://localhost:8081/issues.json,206,0,0
+1592058172111,286,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-17,,true,,928,354,20,20,http://localhost:8081/issues/544.json,0,0,0
+1592058172216,202,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-5,,true,,928,354,20,20,http://localhost:8081/issues/547.json,0,0,0
+1592058172181,243,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,true,,1197,428,20,20,http://localhost:8081/issues.json,243,0,0
+1592058172217,253,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-6,,true,,511,246,20,20,http://localhost:8081/issues/541.json,0,0,0
+1592058172230,258,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-15,text,true,,1197,428,20,20,http://localhost:8081/issues.json,258,0,0
+1592058172217,290,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-16,text,true,,1197,428,20,20,http://localhost:8081/issues.json,290,0,0
+1592058172290,228,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-13,,true,,511,246,20,20,http://localhost:8081/issues/543.json,0,0,0
+1592058172253,293,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,text,true,,13195,159,20,20,http://localhost:8081/issues.json,293,0,0
+1592058172230,322,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,text,true,,13220,159,20,20,http://localhost:8081/issues.json,322,0,0
+1592058172303,255,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1197,428,20,20,http://localhost:8081/issues.json,255,0,0
+1592058172292,282,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-14,,true,,928,354,20,20,http://localhost:8081/issues/548.json,0,0,0
+1592058172338,244,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-20,,true,,511,246,20,20,http://localhost:8081/issues/542.json,0,0,0
+1592058172291,302,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,text,true,,13183,159,20,20,http://localhost:8081/issues.json,302,0,0
+1592058172338,266,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,1185,163,20,20,http://localhost:8081/issues/549.json,266,0,0
+1592058172373,238,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-10,,true,,511,246,20,20,http://localhost:8081/issues/546.json,0,0,0
+1592058172338,277,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1197,428,20,20,http://localhost:8081/issues.json,277,0,0
+1592058172268,360,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,text,true,,13170,159,20,20,http://localhost:8081/issues.json,360,0,1
+1592058172392,241,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,true,,1185,163,20,20,http://localhost:8081/issues/551.json,241,0,0
+1592058172394,240,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1185,163,20,20,http://localhost:8081/issues/550.json,240,0,0
+1592058172397,242,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-17,,true,,511,246,20,20,http://localhost:8081/issues/544.json,0,0,0
+1592058172342,317,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,511,246,20,20,http://localhost:8081/issues/545.json,0,0,0
+1592058172424,240,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,true,,1185,163,20,20,http://localhost:8081/issues/552.json,240,0,0
+1592058172488,176,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,text,true,,1185,163,20,20,http://localhost:8081/issues/553.json,176,0,0
+1592058172507,161,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,text,true,,1185,163,20,20,http://localhost:8081/issues/554.json,161,0,0
+1592058172419,253,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-5,,true,,511,246,20,20,http://localhost:8081/issues/547.json,0,0,0
+1592058172559,136,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1185,163,20,20,http://localhost:8081/issues/555.json,136,0,0
+1592058172546,160,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-11,text,true,,1197,428,20,20,http://localhost:8081/issues.json,160,0,0
+1592058172575,135,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-14,,true,,511,246,20,20,http://localhost:8081/issues/548.json,0,0,0
+1592058172553,167,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-18,text,true,,1197,428,20,20,http://localhost:8081/issues.json,167,0,0
+1592058172519,221,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,text,true,,13210,159,20,20,http://localhost:8081/issues.json,221,0,0
+1592058172471,278,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,13197,159,20,20,http://localhost:8081/issues.json,278,0,0
+1592058172604,164,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-7,,true,,928,354,20,20,http://localhost:8081/issues/549.json,0,0,0
+1592058172593,181,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-19,text,true,,1197,428,20,20,http://localhost:8081/issues.json,181,0,0
+1592058172615,172,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1185,163,20,20,http://localhost:8081/issues/556.json,172,0,0
+1592058172583,204,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,text,true,,13173,159,20,20,http://localhost:8081/issues.json,204,0,0
+1592058172628,168,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-12,text,true,,1197,428,20,20,http://localhost:8081/issues.json,168,0,0
+1592058172634,214,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-8,,true,,928,354,20,20,http://localhost:8081/issues/551.json,0,0,0
+1592058172611,213,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,true,,13160,159,20,20,http://localhost:8081/issues.json,213,0,1
+1592058172634,232,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,928,354,20,20,http://localhost:8081/issues/550.json,0,0,0
+1592058172664,217,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-15,,true,,928,354,20,20,http://localhost:8081/issues/553.json,0,0,0
+1592058172664,220,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-9,,true,,928,354,20,20,http://localhost:8081/issues/552.json,0,0,0
+1592058172659,234,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,13135,159,20,20,http://localhost:8081/issues.json,234,0,1
+1592058172639,275,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,text,true,,13135,159,20,20,http://localhost:8081/issues.json,275,0,1
+1592058172720,231,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,text,true,,1185,163,20,20,http://localhost:8081/issues/558.json,231,0,0
+1592058172668,283,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-16,,true,,928,354,20,20,http://localhost:8081/issues/554.json,0,0,0
+1592058172706,255,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,text,true,,1185,163,20,20,http://localhost:8081/issues/557.json,255,0,0
+1592058172695,274,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,928,354,20,20,http://localhost:8081/issues/555.json,0,0,0
+1592058172672,326,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,13195,159,20,20,http://localhost:8081/issues.json,326,0,1
+1592058172768,233,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-7,,true,,511,246,20,20,http://localhost:8081/issues/549.json,0,0,0
+1592058172711,300,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,text,true,,13183,159,20,20,http://localhost:8081/issues.json,300,0,0
+1592058172740,275,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-13,text,true,,1197,428,20,20,http://localhost:8081/issues.json,275,0,0
+1592058172774,252,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,text,true,,1185,163,20,20,http://localhost:8081/issues/559.json,252,0,0
+1592058172749,296,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,1197,428,20,20,http://localhost:8081/issues.json,295,0,0
+1592058172787,261,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,928,354,20,20,http://localhost:8081/issues/556.json,0,0,0
+1592058172797,251,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,text,true,,1185,163,20,20,http://localhost:8081/issues/560.json,251,0,0
+1592058172850,207,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-8,,true,,511,246,20,20,http://localhost:8081/issues/551.json,0,0,0
+1592058172787,279,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-20,text,true,,1197,428,20,20,http://localhost:8081/issues.json,279,0,0
+1592058172850,236,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,true,,1197,428,20,20,http://localhost:8081/issues.json,236,0,0
+1592058172866,242,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,511,246,20,20,http://localhost:8081/issues/550.json,0,0,0
+1592058172893,217,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,1197,428,20,20,http://localhost:8081/issues.json,217,0,0
+1592058172884,236,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-9,,true,,511,246,20,20,http://localhost:8081/issues/552.json,0,0,0
+1592058172881,254,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-15,,true,,511,246,20,20,http://localhost:8081/issues/553.json,0,0,0
+1592058172914,221,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-17,text,true,,1197,428,20,20,http://localhost:8081/issues.json,221,0,0
+1592058172951,193,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-16,,true,,511,246,20,20,http://localhost:8081/issues/554.json,0,0,0
+1592058172969,194,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,511,246,20,20,http://localhost:8081/issues/555.json,0,0,0
+1592058172951,218,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-18,,true,,928,354,20,20,http://localhost:8081/issues/558.json,0,0,0
+1592058172961,224,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-11,,true,,928,354,20,20,http://localhost:8081/issues/557.json,0,0,0
+1592058173016,189,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,text,true,,1185,163,20,20,http://localhost:8081/issues/561.json,189,0,0
+1592058173011,194,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-14,text,true,,1197,428,20,20,http://localhost:8081/issues.json,194,0,0
+1592058172998,209,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,1197,428,20,20,http://localhost:8081/issues.json,209,0,0
+1592058173048,185,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,511,246,20,20,http://localhost:8081/issues/556.json,0,0,0
+1592058173026,218,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-19,,true,,928,354,20,20,http://localhost:8081/issues/559.json,0,0,0
+1592058173001,252,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,13159,159,20,20,http://localhost:8081/issues.json,252,0,0
+1592058173045,213,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,1185,163,20,20,http://localhost:8081/issues/562.json,213,0,0
+1592058173111,175,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,1185,163,20,20,http://localhost:8081/issues/565.json,175,0,0
+1592058173066,226,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,text,true,,1185,163,20,20,http://localhost:8081/issues/563.json,226,0,0
+1592058173048,249,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-12,,true,,928,354,20,20,http://localhost:8081/issues/560.json,0,0,0
+1592058173086,219,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,true,,1185,163,20,20,http://localhost:8081/issues/564.json,219,0,0
+1592058173057,254,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,true,,13159,159,20,20,http://localhost:8081/issues.json,254,0,1
+1592058173136,204,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,text,true,,1185,163,20,20,http://localhost:8081/issues/566.json,204,0,0
+1592058173108,230,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,13171,159,20,20,http://localhost:8081/issues.json,230,0,1
+1592058173121,243,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,true,,13171,159,20,20,http://localhost:8081/issues.json,243,0,0
+1592058173186,187,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-11,,true,,511,246,20,20,http://localhost:8081/issues/557.json,0,0,0
+1592058173169,217,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-18,,true,,511,246,20,20,http://localhost:8081/issues/558.json,0,0,0
+1592058173164,226,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,13171,159,20,20,http://localhost:8081/issues.json,226,0,0
+1592058173205,186,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,text,true,,1185,163,20,20,http://localhost:8081/issues/567.json,186,0,0
+1592058173136,277,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,text,true,,13171,159,20,20,http://localhost:8081/issues.json,277,0,0
+1592058173144,273,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,text,true,,13171,159,20,20,http://localhost:8081/issues.json,273,0,0
+1592058173205,214,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-13,,true,,928,354,20,20,http://localhost:8081/issues/561.json,0,0,0
+1592058173244,177,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-19,,true,,511,246,20,20,http://localhost:8081/issues/559.json,0,0,0
+1592058173207,221,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,1185,163,20,20,http://localhost:8081/issues/568.json,221,0,0
+1592058173258,201,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-6,,true,,928,354,20,20,http://localhost:8081/issues/562.json,0,0,0
+1592058173297,163,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-12,,true,,511,246,20,20,http://localhost:8081/issues/560.json,0,0,0
+1592058173253,219,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,1197,428,20,20,http://localhost:8081/issues.json,219,0,0
+1592058173292,193,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-20,,true,,928,354,20,20,http://localhost:8081/issues/563.json,0,0,0
+1592058173286,206,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,928,354,20,20,http://localhost:8081/issues/565.json,0,0,0
+1592058173234,265,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,13222,159,20,20,http://localhost:8081/issues.json,265,0,0
+1592058173311,202,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,true,,1197,428,20,20,http://localhost:8081/issues.json,202,0,0
+1592058173305,224,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-10,,true,,928,354,20,20,http://localhost:8081/issues/564.json,0,0,0
+1592058173341,204,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-17,,true,,928,354,20,20,http://localhost:8081/issues/566.json,0,0,0
+1592058173341,239,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1197,428,20,20,http://localhost:8081/issues.json,239,0,0
+1592058173374,209,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,text,true,,13233,159,20,20,http://localhost:8081/issues.json,209,0,0
+1592058173364,226,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,true,,1197,428,20,20,http://localhost:8081/issues.json,226,0,0
+1592058173386,228,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,text,true,,13245,159,20,20,http://localhost:8081/issues.json,228,0,1
+1592058173390,229,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1197,428,20,20,http://localhost:8081/issues.json,229,0,0
+1592058173418,210,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-16,text,true,,1197,428,20,20,http://localhost:8081/issues.json,210,0,0
+1592058173391,252,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-14,,true,,928,354,20,20,http://localhost:8081/issues/567.json,0,0,0
+1592058173413,239,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-15,text,true,,1197,428,20,20,http://localhost:8081/issues.json,239,0,0
+1592058173419,265,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-13,,true,,511,246,20,20,http://localhost:8081/issues/561.json,0,0,0
+1592058173460,238,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-6,,true,,511,246,20,20,http://localhost:8081/issues/562.json,0,0,0
+1592058173472,233,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,1185,163,20,20,http://localhost:8081/issues/569.json,233,0,0
+1592058173421,284,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,text,true,,13142,159,20,20,http://localhost:8081/issues.json,284,0,1
+1592058173428,293,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-5,,true,,928,354,20,20,http://localhost:8081/issues/568.json,0,0,0
+1592058173486,241,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-20,,true,,511,246,20,20,http://localhost:8081/issues/563.json,0,0,0
+1592058173513,227,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,true,,1185,163,20,20,http://localhost:8081/issues/570.json,227,0,0
+1592058173492,248,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,511,246,20,20,http://localhost:8081/issues/565.json,0,0,0
+1592058173461,290,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,text,true,,13142,159,20,20,http://localhost:8081/issues.json,290,0,0
+1592058173499,260,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1197,428,20,20,http://localhost:8081/issues.json,260,0,0
+1592058173545,228,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-17,,true,,511,246,20,20,http://localhost:8081/issues/566.json,0,0,0
+1592058173580,195,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1185,163,20,20,http://localhost:8081/issues/571.json,195,0,0
+1592058173529,255,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-10,,true,,511,246,20,20,http://localhost:8081/issues/564.json,0,0,0
+1592058173584,217,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-11,text,true,,1197,428,20,20,http://localhost:8081/issues.json,217,0,0
+1592058173591,214,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,true,,1185,163,20,20,http://localhost:8081/issues/572.json,214,0,0
+1592058173619,191,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1185,163,20,20,http://localhost:8081/issues/573.json,191,0,0
+1592058173628,189,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,text,true,,1185,163,20,20,http://localhost:8081/issues/574.json,189,0,0
+1592058173614,219,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-18,text,true,,1197,428,20,20,http://localhost:8081/issues.json,219,0,0
+1592058173643,188,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-14,,true,,511,246,20,20,http://localhost:8081/issues/567.json,0,0,0
+1592058173705,159,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-7,,true,,928,354,20,20,http://localhost:8081/issues/569.json,0,0,0
+1592058173653,224,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,text,true,,1185,163,20,20,http://localhost:8081/issues/575.json,224,0,0
+1592058173706,171,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-19,text,true,,1197,428,20,20,http://localhost:8081/issues.json,171,0,0
+1592058173684,209,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,text,true,,13160,159,20,20,http://localhost:8081/issues.json,209,0,1
+1592058173721,187,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-5,,true,,511,246,20,20,http://localhost:8081/issues/568.json,0,0,0
+1592058173740,176,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-8,,true,,928,354,20,20,http://localhost:8081/issues/570.json,0,0,0
+1592058173698,230,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,13160,159,20,20,http://localhost:8081/issues.json,230,0,1
+1592058173759,189,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1185,163,20,20,http://localhost:8081/issues/576.json,189,0,0
+1592058173752,210,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-12,text,true,,1197,428,20,20,http://localhost:8081/issues.json,210,0,0
+1592058173728,258,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,text,true,,13172,159,20,20,http://localhost:8081/issues.json,258,0,0
+1592058173775,219,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,928,354,20,20,http://localhost:8081/issues/571.json,0,0,0
+1592058173801,218,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,text,true,,1185,163,20,20,http://localhost:8081/issues/577.json,218,0,0
+1592058173805,233,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-9,,true,,928,354,20,20,http://localhost:8081/issues/572.json,0,0,0
+1592058173784,256,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,true,,13159,159,20,20,http://localhost:8081/issues.json,256,0,0
+1592058173773,292,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,text,true,,13159,159,20,20,http://localhost:8081/issues.json,292,0,0
+1592058173817,267,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-16,,true,,928,354,20,20,http://localhost:8081/issues/574.json,0,0,0
+1592058173810,301,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,928,354,20,20,http://localhost:8081/issues/573.json,0,0,0
+1592058173865,252,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-7,,true,,511,246,20,20,http://localhost:8081/issues/569.json,0,0,0
+1592058173842,289,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,text,true,,1185,163,20,20,http://localhost:8081/issues/578.json,289,0,0
+1592058173842,293,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,text,true,,13183,159,20,20,http://localhost:8081/issues.json,293,0,0
+1592058173741,405,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,13147,159,20,20,http://localhost:8081/issues.json,405,0,0
+1592058173878,297,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-15,,true,,928,354,20,20,http://localhost:8081/issues/575.json,0,0,0
+1592058173916,260,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-8,,true,,511,246,20,20,http://localhost:8081/issues/570.json,0,0,0
+1592058173928,267,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,1197,428,20,20,http://localhost:8081/issues.json,267,0,0
+1592058173893,310,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-13,text,true,,1197,428,20,20,http://localhost:8081/issues.json,310,0,0
+1592058173878,332,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,text,true,,1185,163,20,20,http://localhost:8081/issues/579.json,332,0,0
+1592058173962,262,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,text,true,,1185,163,20,20,http://localhost:8081/issues/580.json,262,0,0
+1592058173908,318,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,13220,159,20,20,http://localhost:8081/issues.json,318,0,0
+1592058174019,231,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-11,,true,,928,354,20,20,http://localhost:8081/issues/577.json,0,0,0
+1592058173949,319,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,928,354,20,20,http://localhost:8081/issues/576.json,0,0,0
+1592058174040,229,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,true,,1197,428,20,20,http://localhost:8081/issues.json,229,0,0
+1592058173986,286,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-20,text,true,,1197,428,20,20,http://localhost:8081/issues.json,286,0,0
+1592058174039,248,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-9,,true,,511,246,20,20,http://localhost:8081/issues/572.json,0,0,0
+1592058173994,319,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,511,246,20,20,http://localhost:8081/issues/571.json,0,0,0
+1592058174111,228,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,511,246,20,20,http://localhost:8081/issues/573.json,0,0,0
+1592058174084,257,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-16,,true,,511,246,20,20,http://localhost:8081/issues/574.json,0,0,0
+1592058174131,207,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-18,,true,,928,354,20,20,http://localhost:8081/issues/578.json,0,0,0
+1592058174065,262,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-17,text,true,,1197,428,20,20,http://localhost:8081/issues.json,262,0,0
+1592058174135,240,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-14,text,true,,1197,428,20,20,http://localhost:8081/issues.json,240,0,0
+1592058174117,278,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,13183,159,20,20,http://localhost:8081/issues.json,278,0,1
+1592058174175,227,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-15,,true,,511,246,20,20,http://localhost:8081/issues/575.json,0,0,0
+1592058174195,207,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,1185,163,20,20,http://localhost:8081/issues/581.json,207,0,0
+1592058174147,267,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,1197,428,20,20,http://localhost:8081/issues.json,267,0,0
+1592058174203,228,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,text,true,,1185,163,20,20,http://localhost:8081/issues/582.json,228,0,0
+1592058174177,258,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,true,,13171,159,20,20,http://localhost:8081/issues.json,258,0,0
+1592058174210,234,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-19,,true,,928,354,20,20,http://localhost:8081/issues/579.json,0,0,0
+1592058174224,229,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-12,,true,,928,354,20,20,http://localhost:8081/issues/580.json,0,0,0
+1592058174227,227,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,1197,428,20,20,http://localhost:8081/issues.json,227,0,0
+1592058174268,204,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,511,246,20,20,http://localhost:8081/issues/576.json,0,0,0
+1592058174251,233,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-11,,true,,511,246,20,20,http://localhost:8081/issues/577.json,0,0,0
+1592058174270,218,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,true,,1185,163,20,20,http://localhost:8081/issues/584.json,218,0,0
+1592058174343,174,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,text,true,,1185,163,20,20,http://localhost:8081/issues/585.json,174,0,0
+1592058174343,179,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-18,,true,,511,246,20,20,http://localhost:8081/issues/578.json,0,0,0
+1592058174272,270,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,text,true,,1185,163,20,20,http://localhost:8081/issues/583.json,270,0,0
+1592058174375,185,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,text,true,,1185,163,20,20,http://localhost:8081/issues/586.json,185,0,0
+1592058174287,285,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,true,,13184,159,20,20,http://localhost:8081/issues.json,285,0,1
+1592058174313,264,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,13184,159,20,20,http://localhost:8081/issues.json,264,0,1
+1592058174343,246,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,text,true,,13197,159,20,20,http://localhost:8081/issues.json,246,0,0
+1592058174395,199,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,1197,428,20,20,http://localhost:8081/issues.json,199,0,0
+1592058174343,263,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,13197,159,20,20,http://localhost:8081/issues.json,263,0,0
+1592058174414,206,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,1185,163,20,20,http://localhost:8081/issues/587.json,206,0,0
+1592058174402,222,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-6,,true,,928,354,20,20,http://localhost:8081/issues/581.json,0,0,0
+1592058174444,195,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-19,,true,,511,246,20,20,http://localhost:8081/issues/579.json,0,0,0
+1592058174431,227,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-13,,true,,928,354,20,20,http://localhost:8081/issues/582.json,0,0,0
+1592058174453,207,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-12,,true,,511,246,20,20,http://localhost:8081/issues/580.json,0,0,0
+1592058174437,237,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,true,,1197,428,20,20,http://localhost:8081/issues.json,237,0,0
+1592058174403,282,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,text,true,,13172,159,20,20,http://localhost:8081/issues.json,282,0,0
+1592058174488,219,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-10,,true,,928,354,20,20,http://localhost:8081/issues/584.json,0,0,0
+1592058174455,265,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,1185,163,20,20,http://localhost:8081/issues/588.json,265,0,0
+1592058174472,263,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,13197,159,20,20,http://localhost:8081/issues.json,263,0,1
+1592058174517,220,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-17,,true,,928,354,20,20,http://localhost:8081/issues/585.json,0,0,0
+1592058174522,244,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,text,true,,13209,159,20,20,http://localhost:8081/issues.json,244,0,1
+1592058174560,220,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-14,,true,,928,354,20,20,http://localhost:8081/issues/586.json,0,0,0
+1592058174572,213,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,true,,1197,428,20,20,http://localhost:8081/issues.json,213,0,0
+1592058174542,265,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-20,,true,,928,354,20,20,http://localhost:8081/issues/583.json,0,0,0
+1592058174589,221,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-16,text,true,,1197,428,20,20,http://localhost:8081/issues.json,221,0,0
+1592058174577,237,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1197,428,20,20,http://localhost:8081/issues.json,237,0,0
+1592058174594,245,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,1185,163,20,20,http://localhost:8081/issues/589.json,245,0,0
+1592058174607,256,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1197,428,20,20,http://localhost:8081/issues.json,256,0,0
+1592058174624,242,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-6,,true,,511,246,20,20,http://localhost:8081/issues/581.json,0,0,0
+1592058174658,221,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-13,,true,,511,246,20,20,http://localhost:8081/issues/582.json,0,0,0
+1592058174484,405,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,text,true,,13221,159,20,20,http://localhost:8081/issues.json,405,0,1
+1592058174620,272,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,928,354,20,20,http://localhost:8081/issues/587.json,0,0,0
+1592058174675,226,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,true,,1185,163,20,20,http://localhost:8081/issues/590.json,226,0,0
+1592058174640,287,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,text,true,,13158,159,20,20,http://localhost:8081/issues.json,287,0,0
+1592058174707,226,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-10,,true,,511,246,20,20,http://localhost:8081/issues/584.json,0,0,0
+1592058174685,258,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-15,text,true,,1197,428,20,20,http://localhost:8081/issues.json,258,0,0
+1592058174735,226,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1197,428,20,20,http://localhost:8081/issues.json,226,0,0
+1592058174737,235,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-17,,true,,511,246,20,20,http://localhost:8081/issues/585.json,0,0,0
+1592058174766,218,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-18,text,true,,1197,428,20,20,http://localhost:8081/issues.json,218,0,0
+1592058174780,221,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-14,,true,,511,246,20,20,http://localhost:8081/issues/586.json,0,0,0
+1592058174720,288,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-5,,true,,928,354,20,20,http://localhost:8081/issues/588.json,0,0,0
+1592058174661,350,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,text,true,,13196,159,20,20,http://localhost:8081/issues.json,350,0,0
+1592058174807,213,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-20,,true,,511,246,20,20,http://localhost:8081/issues/583.json,0,0,0
+1592058174785,252,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,true,,1185,163,20,20,http://localhost:8081/issues/591.json,252,0,0
+1592058174814,233,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1185,163,20,20,http://localhost:8081/issues/592.json,233,0,0
+1592058174810,250,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,text,true,,1185,163,20,20,http://localhost:8081/issues/593.json,250,0,0
+1592058174863,201,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1185,163,20,20,http://localhost:8081/issues/594.json,201,0,0
+1592058174892,208,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,511,246,20,20,http://localhost:8081/issues/587.json,0,0,0
+1592058174889,215,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-11,text,true,,1197,428,20,20,http://localhost:8081/issues.json,215,0,0
+1592058174901,207,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-8,,true,,928,354,20,20,http://localhost:8081/issues/590.json,0,0,0
+1592058174866,244,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,13172,159,20,20,http://localhost:8081/issues.json,243,0,1
+1592058174880,234,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,text,true,,13172,159,20,20,http://localhost:8081/issues.json,233,0,0
+1592058174843,288,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-7,,true,,928,354,20,20,http://localhost:8081/issues/589.json,0,0,0
+1592058174962,185,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1185,163,20,20,http://localhost:8081/issues/596.json,185,0,0
+1592058174927,239,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-19,text,true,,1197,428,20,20,http://localhost:8081/issues.json,239,0,0
+1592058174943,236,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,text,true,,1185,163,20,20,http://localhost:8081/issues/595.json,236,0,0
+1592058174972,213,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,text,true,,13184,159,20,20,http://localhost:8081/issues.json,213,0,1
+1592058174934,272,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,true,,13159,159,20,20,http://localhost:8081/issues.json,272,0,0
+1592058175002,217,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,text,true,,13159,159,20,20,http://localhost:8081/issues.json,217,0,0
+1592058175008,216,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-5,,true,,511,246,20,20,http://localhost:8081/issues/588.json,0,0,0
+1592058175012,212,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-12,text,true,,1197,428,20,20,http://localhost:8081/issues.json,212,0,0
+1592058175037,212,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-9,,true,,928,354,20,20,http://localhost:8081/issues/591.json,0,0,0
+1592058174985,268,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,text,true,,1185,163,20,20,http://localhost:8081/issues/597.json,268,0,0
+1592058175047,234,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,928,354,20,20,http://localhost:8081/issues/592.json,0,0,0
+1592058175064,221,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,928,354,20,20,http://localhost:8081/issues/594.json,0,0,0
+1592058175104,186,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,text,true,,1185,163,20,20,http://localhost:8081/issues/598.json,186,0,0
+1592058175020,280,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,text,true,,13134,159,20,20,http://localhost:8081/issues.json,280,0,0
+1592058175060,242,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-16,,true,,928,354,20,20,http://localhost:8081/issues/593.json,0,0,0
+1592058175108,229,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-8,,true,,511,246,20,20,http://localhost:8081/issues/590.json,0,0,0
+1592058175114,231,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-13,text,true,,1197,428,20,20,http://localhost:8081/issues.json,231,0,0
+1592058175131,229,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-7,,true,,511,246,20,20,http://localhost:8081/issues/589.json,0,0,0
+1592058175100,263,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,13195,159,20,20,http://localhost:8081/issues.json,263,0,1
+1592058175167,206,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,text,true,,1185,163,20,20,http://localhost:8081/issues/599.json,206,0,0
+1592058175110,283,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,1197,428,20,20,http://localhost:8081/issues.json,283,0,0
+1592058175148,247,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,928,354,20,20,http://localhost:8081/issues/596.json,0,0,0
+1592058175186,232,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-17,text,true,,1197,428,20,20,http://localhost:8081/issues.json,232,0,0
+1592058175206,219,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,true,,1197,428,20,20,http://localhost:8081/issues.json,219,0,0
+1592058175219,211,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-14,text,true,,1197,428,20,20,http://localhost:8081/issues.json,211,0,0
+1592058175179,264,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-15,,true,,928,354,20,20,http://localhost:8081/issues/595.json,0,0,0
+1592058175224,252,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,text,true,,1185,163,20,20,http://localhost:8081/issues/600.json,252,0,0
+1592058175282,203,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,511,246,20,20,http://localhost:8081/issues/592.json,0,0,0
+1592058175253,239,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-18,,true,,928,354,20,20,http://localhost:8081/issues/597.json,0,0,0
+1592058175285,222,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,511,246,20,20,http://localhost:8081/issues/594.json,0,0,0
+1592058175249,273,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-9,,true,,511,246,20,20,http://localhost:8081/issues/591.json,0,0,0
+1592058175290,237,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-11,,true,,928,354,20,20,http://localhost:8081/issues/598.json,0,0,0
+1592058175301,231,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-20,text,true,,1197,428,20,20,http://localhost:8081/issues.json,231,0,0
+1592058175302,254,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-16,,true,,511,246,20,20,http://localhost:8081/issues/593.json,0,0,0
+1592058175224,332,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,13130,159,20,20,http://localhost:8081/issues.json,332,0,1
+1592058175346,227,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,text,true,,1185,163,20,20,http://localhost:8081/issues/601.json,227,0,0
+1592058175343,250,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,true,,13158,159,20,20,http://localhost:8081/issues.json,250,0,0
+1592058175394,199,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,1185,163,20,20,http://localhost:8081/issues/602.json,199,0,0
+1592058175373,233,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-19,,true,,928,354,20,20,http://localhost:8081/issues/599.json,0,0,0
+1592058175364,245,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,1197,428,20,20,http://localhost:8081/issues.json,245,0,0
+1592058175395,229,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,511,246,20,20,http://localhost:8081/issues/596.json,0,0,0
+1592058175418,206,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,text,true,,1185,163,20,20,http://localhost:8081/issues/603.json,206,0,0
+1592058175426,207,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,true,,1185,163,20,20,http://localhost:8081/issues/604.json,207,0,0
+1592058175360,295,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,13171,159,20,20,http://localhost:8081/issues.json,295,0,0
+1592058175492,177,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-18,,true,,511,246,20,20,http://localhost:8081/issues/597.json,0,0,0
+1592058175430,239,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,text,true,,1185,163,20,20,http://localhost:8081/issues/605.json,239,0,0
+1592058175443,253,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-15,,true,,511,246,20,20,http://localhost:8081/issues/595.json,0,0,0
+1592058175476,226,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-12,,true,,928,354,20,20,http://localhost:8081/issues/600.json,0,0,0
+1592058175527,183,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-11,,true,,511,246,20,20,http://localhost:8081/issues/598.json,0,0,0
+1592058175486,227,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,13184,159,20,20,http://localhost:8081/issues.json,227,0,0
+1592058175532,198,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,text,true,,1185,163,20,20,http://localhost:8081/issues/606.json,198,0,0
+1592058175522,227,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,true,,13209,159,20,20,http://localhost:8081/issues.json,227,0,1
+1592058175507,245,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,13196,159,20,20,http://localhost:8081/issues.json,245,0,0
+1592058175573,191,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-13,,true,,928,354,20,20,http://localhost:8081/issues/601.json,0,0,0
+1592058175593,194,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-6,,true,,928,354,20,20,http://localhost:8081/issues/602.json,0,0,0
+1592058175606,181,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-19,,true,,511,246,20,20,http://localhost:8081/issues/599.json,0,0,0
+1592058175556,257,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,text,true,,13222,159,20,20,http://localhost:8081/issues.json,257,0,1
+1592058175609,209,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,1185,163,20,20,http://localhost:8081/issues/607.json,209,0,0
+1592058175593,232,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,true,,1197,428,20,20,http://localhost:8081/issues.json,232,0,0
+1592058175633,224,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-10,,true,,928,354,20,20,http://localhost:8081/issues/604.json,0,0,0
+1592058175624,234,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-17,,true,,928,354,20,20,http://localhost:8081/issues/603.json,0,0,0
+1592058175556,313,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,1197,428,20,20,http://localhost:8081/issues.json,313,0,0
+1592058175655,231,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,1197,428,20,20,http://localhost:8081/issues.json,231,0,0
+1592058175624,263,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,13234,159,20,20,http://localhost:8081/issues.json,263,0,1
+1592058175670,241,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-14,,true,,928,354,20,20,http://localhost:8081/issues/605.json,0,0,0
+1592058175703,235,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-12,,true,,511,246,20,20,http://localhost:8081/issues/600.json,0,0,0
+1592058175714,232,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1197,428,20,20,http://localhost:8081/issues.json,232,0,0
+1592058175669,290,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,text,true,,13220,159,20,20,http://localhost:8081/issues.json,290,0,1
+1592058175749,236,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,true,,1197,428,20,20,http://localhost:8081/issues.json,236,0,0
+1592058175765,223,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-13,,true,,511,246,20,20,http://localhost:8081/issues/601.json,0,0,0
+1592058175730,267,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-20,,true,,928,354,20,20,http://localhost:8081/issues/606.json,0,0,0
+1592058175697,310,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,text,true,,13220,159,20,20,http://localhost:8081/issues.json,310,0,0
+1592058175710,298,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,text,true,,13208,159,20,20,http://localhost:8081/issues.json,298,0,1
+1592058175753,280,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1197,428,20,20,http://localhost:8081/issues.json,280,0,0
+1592058175844,196,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,true,,1185,163,20,20,http://localhost:8081/issues/608.json,196,0,0
+1592058175787,254,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-6,,true,,511,246,20,20,http://localhost:8081/issues/602.json,0,0,0
+1592058175818,241,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,928,354,20,20,http://localhost:8081/issues/607.json,0,0,0
+1592058175858,216,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-17,,true,,511,246,20,20,http://localhost:8081/issues/603.json,0,0,0
+1592058175869,208,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,1185,163,20,20,http://localhost:8081/issues/609.json,208,0,0
+1592058175788,299,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,text,true,,13208,159,20,20,http://localhost:8081/issues.json,299,0,0
+1592058175888,227,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1197,428,20,20,http://localhost:8081/issues.json,227,0,0
+1592058175857,259,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-10,,true,,511,246,20,20,http://localhost:8081/issues/604.json,0,0,0
+1592058175886,235,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,1185,163,20,20,http://localhost:8081/issues/610.json,235,0,0
+1592058175912,218,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-14,,true,,511,246,20,20,http://localhost:8081/issues/605.json,0,0,0
+1592058175813,321,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-16,text,true,,1197,428,20,20,http://localhost:8081/issues.json,321,0,0
+1592058175986,171,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,true,,1185,163,20,20,http://localhost:8081/issues/612.json,171,0,0
+1592058175960,209,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-18,text,true,,1197,428,20,20,http://localhost:8081/issues.json,209,0,0
+1592058175946,226,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1185,163,20,20,http://localhost:8081/issues/611.json,226,0,0
+1592058175938,245,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,text,true,,13197,159,20,20,http://localhost:8081/issues.json,245,0,1
+1592058176033,170,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1185,163,20,20,http://localhost:8081/issues/613.json,170,0,0
+1592058175989,228,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,text,true,,13172,159,20,20,http://localhost:8081/issues.json,228,0,0
+1592058176007,218,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-15,text,true,,1197,428,20,20,http://localhost:8081/issues.json,218,0,0
+1592058176008,222,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-11,text,true,,1197,428,20,20,http://localhost:8081/issues.json,222,0,0
+1592058175998,241,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-20,,true,,511,246,20,20,http://localhost:8081/issues/606.json,0,0,0
+1592058176059,195,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,511,246,20,20,http://localhost:8081/issues/607.json,0,0,0
+1592058176041,223,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-8,,true,,928,354,20,20,http://localhost:8081/issues/608.json,0,0,0
+1592058176042,244,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,13135,159,20,20,http://localhost:8081/issues.json,244,0,0
+1592058176077,221,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-5,,true,,928,354,20,20,http://localhost:8081/issues/609.json,0,0,0
+1592058176116,184,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1185,163,20,20,http://localhost:8081/issues/614.json,184,0,0
+1592058176122,221,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-7,,true,,928,354,20,20,http://localhost:8081/issues/610.json,0,0,0
+1592058176134,203,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,text,true,,1185,163,20,20,http://localhost:8081/issues/615.json,203,0,0
+1592058176088,248,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-19,text,true,,1197,428,20,20,http://localhost:8081/issues.json,248,0,0
+1592058176169,211,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,text,true,,1185,163,20,20,http://localhost:8081/issues/616.json,211,0,0
+1592058176157,254,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-9,,true,,928,354,20,20,http://localhost:8081/issues/612.json,0,0,0
+1592058176173,239,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,928,354,20,20,http://localhost:8081/issues/611.json,0,0,0
+1592058176130,288,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,text,true,,13159,159,20,20,http://localhost:8081/issues.json,288,0,1
+1592058176183,258,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-12,text,true,,1197,428,20,20,http://localhost:8081/issues.json,258,0,0
+1592058176075,379,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,text,true,,13184,159,20,20,http://localhost:8081/issues.json,379,0,0
+1592058176225,240,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,text,true,,1185,163,20,20,http://localhost:8081/issues/617.json,240,0,0
+1592058176117,358,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,true,,13159,159,20,20,http://localhost:8081/issues.json,358,0,0
+1592058176203,288,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,928,354,20,20,http://localhost:8081/issues/613.json,0,0,0
+1592058176264,244,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-8,,true,,511,246,20,20,http://localhost:8081/issues/608.json,0,0,0
+1592058176230,288,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,text,true,,1185,163,20,20,http://localhost:8081/issues/618.json,288,0,0
+1592058176217,305,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-13,text,true,,1197,428,20,20,http://localhost:8081/issues.json,305,0,0
+1592058176298,245,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-5,,true,,511,246,20,20,http://localhost:8081/issues/609.json,0,0,0
+1592058176254,304,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,13170,159,20,20,http://localhost:8081/issues.json,304,0,1
+1592058176240,319,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,text,true,,13170,159,20,20,http://localhost:8081/issues.json,319,0,0
+1592058176301,260,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,928,354,20,20,http://localhost:8081/issues/614.json,0,0,0
+1592058176287,285,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,1197,428,20,20,http://localhost:8081/issues.json,285,0,0
+1592058176347,241,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-16,,true,,928,354,20,20,http://localhost:8081/issues/615.json,0,0,0
+1592058176347,249,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,text,true,,1185,163,20,20,http://localhost:8081/issues/619.json,249,0,0
+1592058176347,250,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-7,,true,,511,246,20,20,http://localhost:8081/issues/610.json,0,0,0
+1592058176380,235,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-18,,true,,928,354,20,20,http://localhost:8081/issues/616.json,0,0,0
+1592058176412,218,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-9,,true,,511,246,20,20,http://localhost:8081/issues/612.json,0,0,0
+1592058176442,197,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,text,true,,1185,163,20,20,http://localhost:8081/issues/620.json,197,0,0
+1592058176412,239,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,511,246,20,20,http://localhost:8081/issues/611.json,0,0,0
+1592058176454,199,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-17,text,true,,1197,428,20,20,http://localhost:8081/issues.json,199,0,0
+1592058176491,186,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,511,246,20,20,http://localhost:8081/issues/613.json,0,0,0
+1592058176475,208,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,true,,1197,428,20,20,http://localhost:8081/issues.json,208,0,0
+1592058176418,266,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-14,text,true,,1197,428,20,20,http://localhost:8081/issues.json,266,0,0
+1592058176522,194,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,text,true,,1185,163,20,20,http://localhost:8081/issues/621.json,194,0,0
+1592058176465,263,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-15,,true,,928,354,20,20,http://localhost:8081/issues/617.json,0,0,0
+1592058176518,210,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-11,,true,,928,354,20,20,http://localhost:8081/issues/618.json,0,0,0
+1592058176560,204,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-20,text,true,,1197,428,20,20,http://localhost:8081/issues.json,204,0,0
+1592058176559,208,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,1197,428,20,20,http://localhost:8081/issues.json,208,0,0
+1592058176509,276,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,true,,13159,159,20,20,http://localhost:8081/issues.json,276,0,0
+1592058176562,252,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,511,246,20,20,http://localhost:8081/issues/614.json,0,0,0
+1592058176588,254,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-16,,true,,511,246,20,20,http://localhost:8081/issues/615.json,0,0,0
+1592058176596,245,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-19,,true,,928,354,20,20,http://localhost:8081/issues/619.json,0,0,0
+1592058176544,289,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,13130,159,20,20,http://localhost:8081/issues.json,289,0,0
+1592058176572,252,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,true,,1185,163,20,20,http://localhost:8081/issues/622.json,252,0,0
+1592058176654,216,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,text,true,,1185,163,20,20,http://localhost:8081/issues/623.json,216,0,0
+1592058176615,256,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-18,,true,,511,246,20,20,http://localhost:8081/issues/616.json,0,0,0
+1592058176639,240,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-12,,true,,928,354,20,20,http://localhost:8081/issues/620.json,0,0,0
+1592058176597,304,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,13146,159,20,20,http://localhost:8081/issues.json,304,0,1
+1592058176683,223,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,true,,1185,163,20,20,http://localhost:8081/issues/624.json,223,0,0
+1592058176630,296,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,true,,13196,159,20,20,http://localhost:8081/issues.json,296,0,1
+1592058176684,250,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,text,true,,1185,163,19,19,http://localhost:8081/issues/625.json,250,0,0
+1592058176728,215,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-15,,true,,511,246,18,18,http://localhost:8081/issues/617.json,0,0,0
+1592058176717,227,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-13,,true,,928,354,17,17,http://localhost:8081/issues/621.json,0,0,0
+1592058176677,275,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,13196,159,16,16,http://localhost:8081/issues.json,275,0,0
+1592058176728,245,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-11,,true,,511,246,15,15,http://localhost:8081/issues/618.json,0,0,0
+1592058176764,213,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,text,true,,1185,163,14,14,http://localhost:8081/issues/626.json,213,0,0
+1592058176651,336,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,13196,159,13,13,http://localhost:8081/issues.json,336,0,1
+1592058176767,241,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,1185,163,12,12,http://localhost:8081/issues/627.json,241,0,0
+1592058176844,175,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-19,,true,,511,246,11,11,http://localhost:8081/issues/619.json,0,0,0
+1592058176785,242,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,true,,1197,428,10,10,http://localhost:8081/issues.json,242,0,0
+1592058176845,196,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,1197,428,9,9,http://localhost:8081/issues.json,196,0,0
+1592058176845,201,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-6,,true,,928,354,8,8,http://localhost:8081/issues/622.json,0,0,0
+1592058176870,214,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-17,,true,,928,354,7,7,http://localhost:8081/issues/623.json,0,0,0
+1592058176844,263,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,text,true,,13209,159,6,6,http://localhost:8081/issues.json,263,0,1
+1592058176814,298,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,13234,159,5,5,http://localhost:8081/issues.json,298,0,1
+1592058176879,237,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-12,,true,,511,246,4,4,http://localhost:8081/issues/620.json,0,0,0
+1592058176901,228,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,true,,1197,428,3,3,http://localhost:8081/issues.json,228,0,0
+1592058176906,245,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-10,,true,,928,354,2,2,http://localhost:8081/issues/624.json,0,0,0
+1592058176872,291,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,text,true,,13221,159,1,1,http://localhost:8081/issues.json,291,0,0

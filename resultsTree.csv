@@ -1,0 +1,1083 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,success,failureMessage,bytes,grpThreads,allThreads,Latency,SampleCount,ErrorCount,Hostname
+1592058151921,73,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,13423,2,2,72,1,0,MacBook-Pro-de-Jose.local
+1592058151921,131,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,13423,2,2,131,1,0,MacBook-Pro-de-Jose.local
+1592058152020,71,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,1197,2,2,71,1,0,MacBook-Pro-de-Jose.local
+1592058152053,98,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,1197,2,2,98,1,0,MacBook-Pro-de-Jose.local
+1592058152093,95,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,1185,2,2,95,1,0,MacBook-Pro-de-Jose.local
+1592058152152,61,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,1185,2,2,61,1,0,MacBook-Pro-de-Jose.local
+1592058152189,57,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,928,2,2,0,1,0,MacBook-Pro-de-Jose.local
+1592058152214,77,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,928,2,2,0,1,0,MacBook-Pro-de-Jose.local
+1592058152247,89,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,511,2,2,0,1,0,MacBook-Pro-de-Jose.local
+1592058152292,73,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,511,2,2,0,1,0,MacBook-Pro-de-Jose.local
+1592058152339,104,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,13423,2,2,104,1,0,MacBook-Pro-de-Jose.local
+1592058152366,136,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,13423,2,2,136,1,0,MacBook-Pro-de-Jose.local
+1592058152444,94,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,1197,2,2,94,1,0,MacBook-Pro-de-Jose.local
+1592058152503,78,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,1197,2,2,78,1,0,MacBook-Pro-de-Jose.local
+1592058152538,91,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,1185,2,2,91,1,0,MacBook-Pro-de-Jose.local
+1592058152581,73,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,1185,2,2,73,1,0,MacBook-Pro-de-Jose.local
+1592058152629,59,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,928,2,2,0,1,0,MacBook-Pro-de-Jose.local
+1592058152655,78,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,928,2,2,0,1,0,MacBook-Pro-de-Jose.local
+1592058152689,85,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,511,2,2,0,1,0,MacBook-Pro-de-Jose.local
+1592058152734,65,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,511,2,2,0,1,0,MacBook-Pro-de-Jose.local
+1592058152774,89,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,13423,2,2,89,1,0,MacBook-Pro-de-Jose.local
+1592058152800,119,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,13423,4,4,119,1,0,MacBook-Pro-de-Jose.local
+1592058152864,110,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,1197,4,4,110,1,0,MacBook-Pro-de-Jose.local
+1592058152889,216,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,13398,4,4,216,1,0,MacBook-Pro-de-Jose.local
+1592058152889,273,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,13398,4,4,273,1,0,MacBook-Pro-de-Jose.local
+1592058152919,275,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,1197,4,4,275,1,0,MacBook-Pro-de-Jose.local
+1592058152975,255,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,1185,4,4,255,1,0,MacBook-Pro-de-Jose.local
+1592058153106,160,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,1197,4,4,160,1,0,MacBook-Pro-de-Jose.local
+1592058153163,148,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,1197,4,4,148,1,0,MacBook-Pro-de-Jose.local
+1592058153195,165,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,1185,4,4,165,1,0,MacBook-Pro-de-Jose.local
+1592058153231,164,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,928,4,4,0,1,0,MacBook-Pro-de-Jose.local
+1592058153266,169,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,1185,4,4,169,1,0,MacBook-Pro-de-Jose.local
+1592058153312,144,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,1185,4,4,144,1,0,MacBook-Pro-de-Jose.local
+1592058153360,124,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,928,4,4,0,1,0,MacBook-Pro-de-Jose.local
+1592058153395,126,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,511,4,4,0,1,0,MacBook-Pro-de-Jose.local
+1592058153436,113,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,928,4,4,0,1,0,MacBook-Pro-de-Jose.local
+1592058153457,149,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,928,4,4,0,1,0,MacBook-Pro-de-Jose.local
+1592058153485,160,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,511,4,4,0,1,0,MacBook-Pro-de-Jose.local
+1592058153522,177,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,13397,4,4,177,1,0,MacBook-Pro-de-Jose.local
+1592058153550,174,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,511,4,4,0,1,0,MacBook-Pro-de-Jose.local
+1592058153607,142,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,511,4,4,0,1,0,MacBook-Pro-de-Jose.local
+1592058153646,167,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,13423,4,4,167,1,0,MacBook-Pro-de-Jose.local
+1592058153699,150,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,1197,4,4,150,1,0,MacBook-Pro-de-Jose.local
+1592058153724,191,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,13398,6,6,191,1,0,MacBook-Pro-de-Jose.local
+1592058153750,219,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,13398,6,6,219,1,0,MacBook-Pro-de-Jose.local
+1592058153814,200,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,1197,6,6,200,1,0,MacBook-Pro-de-Jose.local
+1592058153849,199,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,1185,6,6,199,1,0,MacBook-Pro-de-Jose.local
+1592058153894,209,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,13373,6,6,209,1,0,MacBook-Pro-de-Jose.local
+1592058153893,262,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,13373,6,6,262,1,0,MacBook-Pro-de-Jose.local
+1592058153915,281,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,1197,6,6,281,1,0,MacBook-Pro-de-Jose.local
+1592058153970,275,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,1197,6,6,275,1,0,MacBook-Pro-de-Jose.local
+1592058154014,268,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,1185,6,6,268,1,0,MacBook-Pro-de-Jose.local
+1592058154048,279,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,928,6,6,0,1,0,MacBook-Pro-de-Jose.local
+1592058154104,306,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,1197,6,6,306,1,0,MacBook-Pro-de-Jose.local
+1592058154155,342,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,1197,6,6,342,1,0,MacBook-Pro-de-Jose.local
+1592058154196,340,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,1185,6,6,340,1,0,MacBook-Pro-de-Jose.local
+1592058154245,315,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,1185,6,6,315,1,0,MacBook-Pro-de-Jose.local
+1592058154282,310,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,928,6,6,0,1,0,MacBook-Pro-de-Jose.local
+1592058154327,303,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,511,6,6,0,1,0,MacBook-Pro-de-Jose.local
+1592058154410,244,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,1185,6,6,244,1,0,MacBook-Pro-de-Jose.local
+1592058154498,179,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,1185,6,6,179,1,0,MacBook-Pro-de-Jose.local
+1592058154536,173,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,928,6,6,0,1,0,MacBook-Pro-de-Jose.local
+1592058154560,194,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,928,6,6,0,1,0,MacBook-Pro-de-Jose.local
+1592058154592,215,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,511,6,6,0,1,0,MacBook-Pro-de-Jose.local
+1592058154630,233,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,13347,6,6,233,1,0,MacBook-Pro-de-Jose.local
+1592058154655,239,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,928,6,6,0,1,0,MacBook-Pro-de-Jose.local
+1592058154678,265,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,928,8,8,0,1,0,MacBook-Pro-de-Jose.local
+1592058154709,274,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,511,8,8,0,1,0,MacBook-Pro-de-Jose.local
+1592058154754,259,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,511,8,8,0,1,0,MacBook-Pro-de-Jose.local
+1592058154811,268,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,13397,8,8,268,1,0,MacBook-Pro-de-Jose.local
+1592058154863,250,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,1197,8,8,250,1,0,MacBook-Pro-de-Jose.local
+1592058154895,255,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,511,8,8,0,1,0,MacBook-Pro-de-Jose.local
+1592058154898,306,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,13385,8,8,306,1,0,MacBook-Pro-de-Jose.local
+1592058154898,368,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,13385,8,8,368,1,0,MacBook-Pro-de-Jose.local
+1592058154944,350,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,511,8,8,0,1,0,MacBook-Pro-de-Jose.local
+1592058154984,370,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,13398,8,8,370,1,0,MacBook-Pro-de-Jose.local
+1592058155014,398,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,13398,8,8,398,1,0,MacBook-Pro-de-Jose.local
+1592058155080,365,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,1197,8,8,365,1,0,MacBook-Pro-de-Jose.local
+1592058155113,380,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,1185,8,8,380,1,0,MacBook-Pro-de-Jose.local
+1592058155150,400,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,13373,8,8,400,1,0,MacBook-Pro-de-Jose.local
+1592058155205,380,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,1197,8,8,380,1,0,MacBook-Pro-de-Jose.local
+1592058155266,365,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,1197,8,8,365,1,0,MacBook-Pro-de-Jose.local
+1592058155294,417,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,13323,8,8,417,1,0,MacBook-Pro-de-Jose.local
+1592058155355,389,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,1197,8,8,389,1,0,MacBook-Pro-de-Jose.local
+1592058155413,375,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,1197,8,8,375,1,0,MacBook-Pro-de-Jose.local
+1592058155446,376,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,1185,8,8,376,1,0,MacBook-Pro-de-Jose.local
+1592058155493,359,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,928,8,8,0,1,0,MacBook-Pro-de-Jose.local
+1592058155551,361,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,1197,10,10,361,1,0,MacBook-Pro-de-Jose.local
+1592058155586,361,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,1185,10,10,361,1,0,MacBook-Pro-de-Jose.local
+1592058155632,338,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,1185,10,10,338,1,0,MacBook-Pro-de-Jose.local
+1592058155711,311,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,1197,10,10,311,1,0,MacBook-Pro-de-Jose.local
+1592058155745,330,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,1185,10,10,330,1,0,MacBook-Pro-de-Jose.local
+1592058155788,324,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,1185,10,10,324,1,0,MacBook-Pro-de-Jose.local
+1592058155822,360,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,928,10,10,0,1,0,MacBook-Pro-de-Jose.local
+1592058155852,372,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,511,10,10,0,1,0,MacBook-Pro-de-Jose.local
+1592058155903,376,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,13260,10,10,376,1,0,MacBook-Pro-de-Jose.local
+1592058155902,430,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,13260,10,10,429,1,0,MacBook-Pro-de-Jose.local
+1592058155912,443,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,1185,10,10,443,1,0,MacBook-Pro-de-Jose.local
+1592058155947,443,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,928,10,10,0,1,0,MacBook-Pro-de-Jose.local
+1592058155970,476,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,928,10,10,0,1,0,MacBook-Pro-de-Jose.local
+1592058156022,463,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,1185,10,10,463,1,0,MacBook-Pro-de-Jose.local
+1592058156076,442,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,928,10,10,0,1,0,MacBook-Pro-de-Jose.local
+1592058156113,452,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,928,10,10,0,1,0,MacBook-Pro-de-Jose.local
+1592058156182,425,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,511,10,10,0,1,0,MacBook-Pro-de-Jose.local
+1592058156225,446,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,13321,10,10,446,1,0,MacBook-Pro-de-Jose.local
+1592058156280,425,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,1197,10,10,425,1,0,MacBook-Pro-de-Jose.local
+1592058156332,416,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,1197,10,10,416,1,0,MacBook-Pro-de-Jose.local
+1592058156355,436,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,928,10,10,0,1,0,MacBook-Pro-de-Jose.local
+1592058156390,439,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,511,10,10,0,1,0,MacBook-Pro-de-Jose.local
+1592058156447,409,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,511,10,10,0,1,0,MacBook-Pro-de-Jose.local
+1592058156485,406,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,928,10,10,0,1,0,MacBook-Pro-de-Jose.local
+1592058156518,427,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,511,12,12,0,1,0,MacBook-Pro-de-Jose.local
+1592058156566,407,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,511,12,12,0,1,0,MacBook-Pro-de-Jose.local
+1592058156608,421,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,13347,12,12,421,1,0,MacBook-Pro-de-Jose.local
+1592058156671,392,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,1197,12,12,392,1,0,MacBook-Pro-de-Jose.local
+1592058156705,391,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,1185,12,12,391,1,0,MacBook-Pro-de-Jose.local
+1592058156749,370,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,1185,12,12,370,1,0,MacBook-Pro-de-Jose.local
+1592058156791,353,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,511,12,12,0,1,0,MacBook-Pro-de-Jose.local
+1592058156830,378,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,13335,12,12,378,1,0,MacBook-Pro-de-Jose.local
+1592058156856,410,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,13335,12,12,410,1,0,MacBook-Pro-de-Jose.local
+1592058156891,401,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,511,12,12,0,1,0,MacBook-Pro-de-Jose.local
+1592058156904,443,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,13348,12,12,443,1,0,MacBook-Pro-de-Jose.local
+1592058156904,514,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,13348,12,12,514,1,0,MacBook-Pro-de-Jose.local
+1592058156945,529,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,13348,12,12,529,1,0,MacBook-Pro-de-Jose.local
+1592058156974,554,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,13348,12,12,554,1,0,MacBook-Pro-de-Jose.local
+1592058157030,539,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,1197,12,12,539,1,0,MacBook-Pro-de-Jose.local
+1592058157063,542,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,1185,12,12,542,1,0,MacBook-Pro-de-Jose.local
+1592058157097,540,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,928,12,12,0,1,0,MacBook-Pro-de-Jose.local
+1592058157120,582,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,928,12,12,0,1,0,MacBook-Pro-de-Jose.local
+1592058157145,689,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,13347,12,12,689,1,0,MacBook-Pro-de-Jose.local
+1592058157209,660,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,1197,12,12,660,1,0,MacBook-Pro-de-Jose.local
+1592058157267,650,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,1197,14,14,650,1,0,MacBook-Pro-de-Jose.local
+1592058157292,688,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,13297,14,14,688,1,0,MacBook-Pro-de-Jose.local
+1592058157347,666,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,1197,14,14,666,1,0,MacBook-Pro-de-Jose.local
+1592058157419,649,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,1197,14,14,648,1,0,MacBook-Pro-de-Jose.local
+1592058157474,638,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,1197,14,14,638,1,0,MacBook-Pro-de-Jose.local
+1592058157529,626,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,1197,14,14,626,1,0,MacBook-Pro-de-Jose.local
+1592058157569,624,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,1185,14,14,624,1,0,MacBook-Pro-de-Jose.local
+1592058157605,617,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,928,14,14,0,1,0,MacBook-Pro-de-Jose.local
+1592058157638,624,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,511,14,14,0,1,0,MacBook-Pro-de-Jose.local
+1592058157702,596,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,511,14,14,0,1,0,MacBook-Pro-de-Jose.local
+1592058157834,498,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,1197,14,14,498,1,0,MacBook-Pro-de-Jose.local
+1592058157869,502,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,1185,14,14,501,1,0,MacBook-Pro-de-Jose.local
+1592058157905,520,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,true,,13210,14,14,520,1,0,MacBook-Pro-de-Jose.local
+1592058157905,572,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,true,,13210,14,14,572,1,0,MacBook-Pro-de-Jose.local
+1592058157917,582,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,1185,14,14,582,1,0,MacBook-Pro-de-Jose.local
+1592058157981,562,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,1197,14,14,562,1,0,MacBook-Pro-de-Jose.local
+1592058158014,565,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,1185,14,14,565,1,0,MacBook-Pro-de-Jose.local
+1592058158068,533,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,1185,14,14,533,1,0,MacBook-Pro-de-Jose.local
+1592058158113,511,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,1185,14,14,511,1,0,MacBook-Pro-de-Jose.local
+1592058158156,492,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,1185,14,14,492,1,0,MacBook-Pro-de-Jose.local
+1592058158193,485,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,928,14,14,0,1,0,MacBook-Pro-de-Jose.local
+1592058158222,496,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,511,14,14,0,1,0,MacBook-Pro-de-Jose.local
+1592058158263,521,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,13210,14,14,521,1,0,MacBook-Pro-de-Jose.local
+1592058158299,545,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,13210,14,14,545,1,0,MacBook-Pro-de-Jose.local
+1592058158333,535,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,1185,14,14,535,1,0,MacBook-Pro-de-Jose.local
+1592058158371,528,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,928,14,14,0,1,0,MacBook-Pro-de-Jose.local
+1592058158425,525,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-14,true,,1197,16,16,525,1,0,MacBook-Pro-de-Jose.local
+1592058158477,528,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-13,true,,1197,16,16,528,1,0,MacBook-Pro-de-Jose.local
+1592058158500,548,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,928,16,16,0,1,0,MacBook-Pro-de-Jose.local
+1592058158543,545,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,1185,16,16,545,1,0,MacBook-Pro-de-Jose.local
+1592058158579,540,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,928,16,16,0,1,0,MacBook-Pro-de-Jose.local
+1592058158602,564,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,928,16,16,0,1,0,MacBook-Pro-de-Jose.local
+1592058158625,586,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,928,16,16,0,1,0,MacBook-Pro-de-Jose.local
+1592058158648,621,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,928,16,16,0,1,0,MacBook-Pro-de-Jose.local
+1592058158679,632,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,511,16,16,0,1,0,MacBook-Pro-de-Jose.local
+1592058158718,648,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,13245,16,16,648,1,0,MacBook-Pro-de-Jose.local
+1592058158785,616,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,1197,16,16,616,1,0,MacBook-Pro-de-Jose.local
+1592058158845,611,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,1197,16,16,611,1,0,MacBook-Pro-de-Jose.local
+1592058158868,637,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,928,16,16,0,1,0,MacBook-Pro-de-Jose.local
+1592058158900,644,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,511,16,16,0,1,0,MacBook-Pro-de-Jose.local
+1592058158910,694,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,true,,13220,16,16,693,1,0,MacBook-Pro-de-Jose.local
+1592058158912,757,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,true,,13220,16,16,757,1,0,MacBook-Pro-de-Jose.local
+1592058158950,748,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,true,,1185,16,16,747,1,0,MacBook-Pro-de-Jose.local
+1592058159005,719,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,true,,1185,16,16,719,1,0,MacBook-Pro-de-Jose.local
+1592058159048,704,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,511,16,16,0,1,0,MacBook-Pro-de-Jose.local
+1592058159088,703,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,928,16,16,0,1,0,MacBook-Pro-de-Jose.local
+1592058159119,735,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,511,16,16,0,1,0,MacBook-Pro-de-Jose.local
+1592058159166,732,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,511,16,16,0,1,0,MacBook-Pro-de-Jose.local
+1592058159212,721,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,511,18,18,0,1,0,MacBook-Pro-de-Jose.local
+1592058159269,699,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,511,18,18,0,1,0,MacBook-Pro-de-Jose.local
+1592058159317,737,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,13297,18,18,737,1,0,MacBook-Pro-de-Jose.local
+1592058159367,721,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,1197,18,18,721,1,0,MacBook-Pro-de-Jose.local
+1592058159402,720,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,1185,18,18,720,1,0,MacBook-Pro-de-Jose.local
+1592058159456,689,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,1185,18,18,689,1,0,MacBook-Pro-de-Jose.local
+1592058159505,666,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,511,18,18,0,1,0,MacBook-Pro-de-Jose.local
+1592058159544,680,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,13285,18,18,680,1,0,MacBook-Pro-de-Jose.local
+1592058159604,663,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-15,true,,1197,18,18,663,1,0,MacBook-Pro-de-Jose.local
+1592058159670,643,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-16,true,,1197,18,18,643,1,0,MacBook-Pro-de-Jose.local
+1592058159698,658,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-14,true,,928,18,18,0,1,0,MacBook-Pro-de-Jose.local
+1592058159724,679,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-13,true,,928,18,18,0,1,0,MacBook-Pro-de-Jose.local
+1592058159752,725,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,13259,18,18,725,1,0,MacBook-Pro-de-Jose.local
+1592058159792,713,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,511,18,18,0,1,0,MacBook-Pro-de-Jose.local
+1592058159854,705,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,13272,18,18,705,1,0,MacBook-Pro-de-Jose.local
+1592058159898,713,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,13272,18,18,713,1,0,MacBook-Pro-de-Jose.local
+1592058159913,759,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,true,,13272,18,18,759,1,0,MacBook-Pro-de-Jose.local
+1592058159913,812,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,true,,13272,18,18,812,1,0,MacBook-Pro-de-Jose.local
+1592058159934,844,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,13272,18,18,843,1,0,MacBook-Pro-de-Jose.local
+1592058159969,869,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,13272,18,18,869,1,0,MacBook-Pro-de-Jose.local
+1592058160054,817,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,1197,18,18,817,1,0,MacBook-Pro-de-Jose.local
+1592058160089,825,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,1185,20,19,825,1,0,MacBook-Pro-de-Jose.local
+1592058160122,840,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058160145,910,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058160171,980,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,13271,20,20,980,1,0,MacBook-Pro-de-Jose.local
+1592058160225,959,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,1197,20,20,959,1,0,MacBook-Pro-de-Jose.local
+1592058160268,950,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,true,,1185,20,20,950,1,0,MacBook-Pro-de-Jose.local
+1592058160320,924,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,true,,1185,20,20,924,1,0,MacBook-Pro-de-Jose.local
+1592058160356,915,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-14,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058160403,894,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-13,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058160477,854,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,1197,20,20,854,1,0,MacBook-Pro-de-Jose.local
+1592058160505,904,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,13247,20,20,904,1,0,MacBook-Pro-de-Jose.local
+1592058160558,884,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,1197,20,20,884,1,0,MacBook-Pro-de-Jose.local
+1592058160610,876,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,1197,20,20,876,1,0,MacBook-Pro-de-Jose.local
+1592058160671,861,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-17,true,,1197,20,20,861,1,0,MacBook-Pro-de-Jose.local
+1592058160725,863,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-18,true,,1197,20,20,863,1,0,MacBook-Pro-de-Jose.local
+1592058160777,859,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,1197,20,20,859,1,0,MacBook-Pro-de-Jose.local
+1592058160838,843,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,1197,20,20,843,1,0,MacBook-Pro-de-Jose.local
+1592058160870,847,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,1185,20,20,847,1,0,MacBook-Pro-de-Jose.local
+1592058160914,834,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058160914,912,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,true,,13106,20,20,912,1,0,MacBook-Pro-de-Jose.local
+1592058160914,967,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,true,,13106,20,20,967,1,0,MacBook-Pro-de-Jose.local
+1592058160961,949,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058161054,887,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058161151,835,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,1197,20,20,835,1,0,MacBook-Pro-de-Jose.local
+1592058161183,841,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,1185,20,20,841,1,0,MacBook-Pro-de-Jose.local
+1592058161218,849,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-15,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058161243,870,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-16,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058161271,906,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,true,,13134,20,20,906,1,0,MacBook-Pro-de-Jose.local
+1592058161297,953,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,true,,13134,20,20,953,1,0,MacBook-Pro-de-Jose.local
+1592058161332,943,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,1185,20,20,943,1,0,MacBook-Pro-de-Jose.local
+1592058161409,899,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,1197,20,20,899,1,0,MacBook-Pro-de-Jose.local
+1592058161442,908,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,1185,20,20,908,1,0,MacBook-Pro-de-Jose.local
+1592058161487,900,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,1185,20,20,900,1,0,MacBook-Pro-de-Jose.local
+1592058161532,889,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,true,,1185,20,20,889,1,0,MacBook-Pro-de-Jose.local
+1592058161589,870,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,true,,1185,20,20,870,1,0,MacBook-Pro-de-Jose.local
+1592058161637,860,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,1185,20,20,860,1,0,MacBook-Pro-de-Jose.local
+1592058161682,867,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,1185,20,20,867,1,0,MacBook-Pro-de-Jose.local
+1592058161717,866,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058161749,873,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058161827,826,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-19,true,,1197,20,20,826,1,0,MacBook-Pro-de-Jose.local
+1592058161881,813,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-20,true,,1197,20,20,813,1,0,MacBook-Pro-de-Jose.local
+1592058161911,848,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,13094,20,20,848,1,0,MacBook-Pro-de-Jose.local
+1592058161942,884,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,13094,20,20,884,1,0,MacBook-Pro-de-Jose.local
+1592058161986,864,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,1185,20,20,864,1,0,MacBook-Pro-de-Jose.local
+1592058162025,858,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058162068,858,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-15,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058162113,835,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-16,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058162181,798,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-14,true,,1197,20,20,798,1,0,MacBook-Pro-de-Jose.local
+1592058162250,775,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-13,true,,1197,20,20,775,1,0,MacBook-Pro-de-Jose.local
+1592058162275,806,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058162308,813,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,1185,20,20,813,1,0,MacBook-Pro-de-Jose.local
+1592058162350,805,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058162387,814,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058162421,827,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-17,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058162460,848,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-18,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058162497,859,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058162549,854,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058162583,860,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058162623,884,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,13166,20,20,884,1,0,MacBook-Pro-de-Jose.local
+1592058162653,879,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,true,,1185,20,20,879,1,0,MacBook-Pro-de-Jose.local
+1592058162695,856,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,true,,1185,20,20,856,1,0,MacBook-Pro-de-Jose.local
+1592058162760,823,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,1197,20,20,823,1,0,MacBook-Pro-de-Jose.local
+1592058162826,797,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,1197,20,20,797,1,0,MacBook-Pro-de-Jose.local
+1592058162850,815,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058162883,820,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058162927,844,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,true,,13154,20,20,844,1,0,MacBook-Pro-de-Jose.local
+1592058162950,875,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,true,,13154,20,20,875,1,0,MacBook-Pro-de-Jose.local
+1592058162979,870,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,true,,1185,20,20,870,1,0,MacBook-Pro-de-Jose.local
+1592058163025,847,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,true,,1185,20,20,847,1,0,MacBook-Pro-de-Jose.local
+1592058163082,816,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058163121,815,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058163156,826,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058163201,806,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058163248,785,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-17,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058163308,756,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-18,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058163356,735,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058163404,730,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058163443,792,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,13247,20,20,792,1,0,MacBook-Pro-de-Jose.local
+1592058163508,794,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,1197,20,20,794,1,0,MacBook-Pro-de-Jose.local
+1592058163532,820,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-19,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058163551,848,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-20,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058163584,855,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,1185,20,20,855,1,0,MacBook-Pro-de-Jose.local
+1592058163623,838,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,1185,20,20,838,1,0,MacBook-Pro-de-Jose.local
+1592058163665,819,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058163703,843,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,13259,20,20,843,1,0,MacBook-Pro-de-Jose.local
+1592058163771,809,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-15,true,,1197,20,20,809,1,0,MacBook-Pro-de-Jose.local
+1592058163825,801,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-16,true,,1197,20,20,801,1,0,MacBook-Pro-de-Jose.local
+1592058163849,821,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-14,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058163872,842,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-13,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058163898,897,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,13233,20,20,897,1,0,MacBook-Pro-de-Jose.local
+1592058163937,884,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058163982,894,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,13246,20,20,894,1,0,MacBook-Pro-de-Jose.local
+1592058164008,924,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,13246,20,20,924,1,0,MacBook-Pro-de-Jose.local
+1592058164034,964,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,true,,13246,20,20,964,1,0,MacBook-Pro-de-Jose.local
+1592058164064,988,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,true,,13246,20,20,988,1,0,MacBook-Pro-de-Jose.local
+1592058164091,1018,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,13246,20,20,1018,1,0,MacBook-Pro-de-Jose.local
+1592058164135,1037,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,13246,20,20,1037,1,0,MacBook-Pro-de-Jose.local
+1592058164235,974,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,1197,20,20,974,1,0,MacBook-Pro-de-Jose.local
+1592058164303,953,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,1185,20,20,953,1,0,MacBook-Pro-de-Jose.local
+1592058164352,944,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-19,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058164399,933,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-20,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058164439,950,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058164461,1015,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058164484,1066,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,13271,20,20,1066,1,0,MacBook-Pro-de-Jose.local
+1592058164547,1038,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,1197,20,20,1038,1,0,MacBook-Pro-de-Jose.local
+1592058164581,1041,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,true,,1185,20,20,1041,1,0,MacBook-Pro-de-Jose.local
+1592058164626,1021,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,true,,1185,20,20,1021,1,0,MacBook-Pro-de-Jose.local
+1592058164670,1003,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-14,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058164714,987,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-13,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058164796,951,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,1197,20,20,951,1,0,MacBook-Pro-de-Jose.local
+1592058164825,992,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,13247,20,20,992,1,0,MacBook-Pro-de-Jose.local
+1592058164877,974,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,1197,20,20,974,1,0,MacBook-Pro-de-Jose.local
+1592058164933,964,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,1197,20,20,964,1,0,MacBook-Pro-de-Jose.local
+1592058164998,943,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-17,true,,1197,20,20,943,1,0,MacBook-Pro-de-Jose.local
+1592058165053,946,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-18,true,,1197,20,20,946,1,0,MacBook-Pro-de-Jose.local
+1592058165110,937,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,1197,20,20,937,1,0,MacBook-Pro-de-Jose.local
+1592058165172,923,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,1197,20,20,923,1,0,MacBook-Pro-de-Jose.local
+1592058165210,924,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,1185,20,20,924,1,0,MacBook-Pro-de-Jose.local
+1592058165257,914,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058165296,956,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,true,,13106,20,20,956,1,0,MacBook-Pro-de-Jose.local
+1592058165332,975,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,true,,13106,20,20,975,1,0,MacBook-Pro-de-Jose.local
+1592058165390,946,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058165478,886,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058165551,848,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,1197,20,20,848,1,0,MacBook-Pro-de-Jose.local
+1592058165586,851,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,1185,20,20,851,1,0,MacBook-Pro-de-Jose.local
+1592058165623,855,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-15,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058165648,883,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-16,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058165675,926,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,true,,13134,20,20,926,1,0,MacBook-Pro-de-Jose.local
+1592058165703,953,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,true,,13134,20,20,953,1,0,MacBook-Pro-de-Jose.local
+1592058165748,943,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,1185,20,20,943,1,0,MacBook-Pro-de-Jose.local
+1592058165827,897,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,1197,20,20,897,1,0,MacBook-Pro-de-Jose.local
+1592058165852,913,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,1185,20,20,913,1,0,MacBook-Pro-de-Jose.local
+1592058165899,890,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,1185,20,20,890,1,0,MacBook-Pro-de-Jose.local
+1592058165943,870,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,true,,1185,20,20,870,1,0,MacBook-Pro-de-Jose.local
+1592058166000,838,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,true,,1185,20,20,838,1,0,MacBook-Pro-de-Jose.local
+1592058166048,814,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,1185,20,20,814,1,0,MacBook-Pro-de-Jose.local
+1592058166096,791,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,1185,20,20,791,1,0,MacBook-Pro-de-Jose.local
+1592058166136,784,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058166172,804,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058166254,759,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-19,true,,1197,20,20,759,1,0,MacBook-Pro-de-Jose.local
+1592058166309,752,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-20,true,,1197,20,20,752,1,0,MacBook-Pro-de-Jose.local
+1592058166336,794,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,13094,20,20,794,1,0,MacBook-Pro-de-Jose.local
+1592058166365,829,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,13094,20,20,829,1,0,MacBook-Pro-de-Jose.local
+1592058166399,820,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,1185,20,20,820,1,0,MacBook-Pro-de-Jose.local
+1592058166437,816,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058166479,837,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-15,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058166531,819,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-16,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058166601,807,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-14,true,,1197,20,20,807,1,0,MacBook-Pro-de-Jose.local
+1592058166657,849,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-13,true,,1197,20,20,848,1,0,MacBook-Pro-de-Jose.local
+1592058166691,871,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058166766,858,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058166789,890,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058166838,895,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-18,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058166887,919,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058166920,934,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058167013,869,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,true,,1185,20,20,869,1,0,MacBook-Pro-de-Jose.local
+1592058167062,851,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,true,,1185,20,20,851,1,0,MacBook-Pro-de-Jose.local
+1592058167131,820,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,1197,20,20,820,1,0,MacBook-Pro-de-Jose.local
+1592058167219,784,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058167253,800,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058167330,800,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,true,,13142,20,20,800,1,0,MacBook-Pro-de-Jose.local
+1592058167351,840,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,true,,13142,20,20,840,1,0,MacBook-Pro-de-Jose.local
+1592058167409,811,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,true,,1185,20,20,811,1,0,MacBook-Pro-de-Jose.local
+1592058167506,747,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,true,,1185,20,20,747,1,0,MacBook-Pro-de-Jose.local
+1592058167562,722,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058167624,694,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058167680,675,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058167733,654,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-18,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058167806,619,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058166725,1714,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,1185,20,20,1714,1,0,MacBook-Pro-de-Jose.local
+1592058166813,1688,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-17,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058167855,662,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,13210,20,20,662,1,0,MacBook-Pro-de-Jose.local
+1592058167882,657,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-19,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058167951,599,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,1185,20,20,599,1,0,MacBook-Pro-de-Jose.local
+1592058167913,681,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-20,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058168003,621,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058168053,578,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,13234,20,20,578,1,0,MacBook-Pro-de-Jose.local
+1592058166862,1787,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058168220,450,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-14,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058168192,513,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-16,true,,1197,20,20,513,1,0,MacBook-Pro-de-Jose.local
+1592058168131,600,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-15,true,,1197,20,20,600,1,0,MacBook-Pro-de-Jose.local
+1592058168254,509,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-13,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058168285,496,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,13258,20,20,496,1,0,MacBook-Pro-de-Jose.local
+1592058168426,427,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,13245,20,20,427,1,0,MacBook-Pro-de-Jose.local
+1592058166977,1886,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,13245,20,20,1886,1,0,MacBook-Pro-de-Jose.local
+1592058167195,1677,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,1197,20,20,1677,1,0,MacBook-Pro-de-Jose.local
+1592058168331,547,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,13245,20,20,547,1,0,MacBook-Pro-de-Jose.local
+1592058168439,464,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058168539,380,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-19,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058168501,430,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-17,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058168355,596,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,13220,20,20,595,1,0,MacBook-Pro-de-Jose.local
+1592058168594,364,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-20,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058168551,435,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058168517,472,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,1197,20,20,472,1,0,MacBook-Pro-de-Jose.local
+1592058168631,366,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,1197,20,20,366,1,0,MacBook-Pro-de-Jose.local
+1592058168649,351,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058168624,384,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,13271,20,20,384,1,0,MacBook-Pro-de-Jose.local
+1592058168388,642,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,true,,13258,20,20,642,1,0,MacBook-Pro-de-Jose.local
+1592058168763,272,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-13,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058168670,396,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-14,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058168732,343,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,true,,1185,20,20,343,1,0,MacBook-Pro-de-Jose.local
+1592058168864,221,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,1197,20,20,221,1,0,MacBook-Pro-de-Jose.local
+1592058168854,234,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,1197,20,20,234,1,0,MacBook-Pro-de-Jose.local
+1592058168781,315,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,1197,20,20,315,1,0,MacBook-Pro-de-Jose.local
+1592058168872,246,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,1185,20,20,245,1,0,MacBook-Pro-de-Jose.local
+1592058168705,420,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,true,,1185,20,20,420,1,0,MacBook-Pro-de-Jose.local
+1592058168878,248,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,1197,20,20,248,1,0,MacBook-Pro-de-Jose.local
+1592058168903,243,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058168951,206,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,1197,20,20,206,1,0,MacBook-Pro-de-Jose.local
+1592058168989,196,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,1185,20,20,196,1,0,MacBook-Pro-de-Jose.local
+1592058168986,205,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058168998,210,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,1185,20,20,210,1,0,MacBook-Pro-de-Jose.local
+1592058168920,289,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,true,,13160,20,20,289,1,0,MacBook-Pro-de-Jose.local
+1592058168931,312,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,true,,13160,20,20,312,1,0,MacBook-Pro-de-Jose.local
+1592058169008,240,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,1197,20,20,240,1,0,MacBook-Pro-de-Jose.local
+1592058169031,219,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-18,true,,1197,20,20,219,1,0,MacBook-Pro-de-Jose.local
+1592058168959,301,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,true,,13173,20,20,301,1,0,MacBook-Pro-de-Jose.local
+1592058169001,265,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,13173,20,20,265,1,0,MacBook-Pro-de-Jose.local
+1592058169035,260,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,true,,13148,20,20,260,1,0,MacBook-Pro-de-Jose.local
+1592058169085,217,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,1185,20,20,217,1,0,MacBook-Pro-de-Jose.local
+1592058169096,210,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,1185,20,20,210,1,0,MacBook-Pro-de-Jose.local
+1592058169075,257,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-15,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058169088,230,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,1185,20,20,230,1,0,MacBook-Pro-de-Jose.local
+1592058169067,269,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,true,,13123,20,20,269,1,0,MacBook-Pro-de-Jose.local
+1592058169126,216,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-16,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058169118,233,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058169126,231,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,1185,20,20,231,1,0,MacBook-Pro-de-Jose.local
+1592058169157,234,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,1185,20,20,234,1,0,MacBook-Pro-de-Jose.local
+1592058169210,198,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-19,true,,1197,20,20,198,1,0,MacBook-Pro-de-Jose.local
+1592058169185,226,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058169146,280,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,13159,20,20,280,1,0,MacBook-Pro-de-Jose.local
+1592058169208,239,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058169243,211,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-17,true,,1197,20,20,211,1,0,MacBook-Pro-de-Jose.local
+1592058169192,279,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,13159,20,20,279,1,0,MacBook-Pro-de-Jose.local
+1592058169248,230,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,1185,20,20,230,1,0,MacBook-Pro-de-Jose.local
+1592058169261,222,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-20,true,,1197,20,20,222,1,0,MacBook-Pro-de-Jose.local
+1592058169250,242,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,true,,1185,20,20,242,1,0,MacBook-Pro-de-Jose.local
+1592058169302,218,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058169295,228,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-13,true,,1197,20,20,228,1,0,MacBook-Pro-de-Jose.local
+1592058169306,218,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058169266,269,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,1197,20,20,268,1,0,MacBook-Pro-de-Jose.local
+1592058169333,215,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058169333,233,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-15,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058169342,240,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-16,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058169408,189,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,true,,1185,20,20,189,1,0,MacBook-Pro-de-Jose.local
+1592058169351,252,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058169358,259,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058169411,210,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058169336,300,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-14,true,,1197,20,20,300,1,0,MacBook-Pro-de-Jose.local
+1592058169426,219,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,1197,20,20,219,1,0,MacBook-Pro-de-Jose.local
+1592058169447,209,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058169391,284,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058169472,204,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,1197,20,20,204,1,0,MacBook-Pro-de-Jose.local
+1592058169483,224,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,true,,1185,20,20,224,1,0,MacBook-Pro-de-Jose.local
+1592058169492,220,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-18,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058169454,264,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,true,,1185,20,20,264,1,0,MacBook-Pro-de-Jose.local
+1592058169478,254,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058169520,218,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058169524,225,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,true,,1185,20,20,225,1,0,MacBook-Pro-de-Jose.local
+1592058169524,235,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058169548,229,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058169535,249,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,1185,20,20,249,1,0,MacBook-Pro-de-Jose.local
+1592058169598,205,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-19,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058169617,196,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058169582,240,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,true,,13171,20,20,240,1,0,MacBook-Pro-de-Jose.local
+1592058169603,244,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,13183,20,20,244,1,0,MacBook-Pro-de-Jose.local
+1592058169645,207,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,1185,20,20,207,1,0,MacBook-Pro-de-Jose.local
+1592058169636,226,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,true,,1185,20,20,226,1,0,MacBook-Pro-de-Jose.local
+1592058169622,255,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,13196,20,20,255,1,0,MacBook-Pro-de-Jose.local
+1592058169675,207,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058169656,249,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,13196,20,20,249,1,0,MacBook-Pro-de-Jose.local
+1592058169708,200,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-20,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058169567,342,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,true,,13196,20,20,341,1,0,MacBook-Pro-de-Jose.local
+1592058169676,236,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,1185,20,20,236,1,0,MacBook-Pro-de-Jose.local
+1592058169713,201,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-18,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058169719,230,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-17,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058169733,224,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058169750,212,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-13,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058169777,224,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,13246,20,20,224,1,0,MacBook-Pro-de-Jose.local
+1592058169803,205,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-19,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058169759,256,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,13246,20,20,256,1,0,MacBook-Pro-de-Jose.local
+1592058169784,247,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058169739,296,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,13271,20,20,296,1,0,MacBook-Pro-de-Jose.local
+1592058169835,220,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-16,true,,1197,20,20,220,1,0,MacBook-Pro-de-Jose.local
+1592058169814,244,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,13284,20,20,244,1,0,MacBook-Pro-de-Jose.local
+1592058169853,210,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058169850,213,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,1197,20,20,213,1,0,MacBook-Pro-de-Jose.local
+1592058169877,220,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,1197,20,20,220,1,0,MacBook-Pro-de-Jose.local
+1592058169906,195,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,1197,20,20,195,1,0,MacBook-Pro-de-Jose.local
+1592058169908,212,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-20,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058169909,224,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-15,true,,1197,20,20,224,1,0,MacBook-Pro-de-Jose.local
+1592058169862,285,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-14,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058169949,214,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-17,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058169912,257,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058169883,310,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,13208,20,20,310,1,0,MacBook-Pro-de-Jose.local
+1592058170002,209,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,1197,20,20,209,1,0,MacBook-Pro-de-Jose.local
+1592058169962,255,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-13,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058169914,318,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,true,,13233,20,20,318,1,0,MacBook-Pro-de-Jose.local
+1592058170015,235,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,1197,20,20,235,1,0,MacBook-Pro-de-Jose.local
+1592058170036,228,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,1197,20,20,228,1,0,MacBook-Pro-de-Jose.local
+1592058170031,236,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058169957,312,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,13233,20,20,311,1,0,MacBook-Pro-de-Jose.local
+1592058170008,261,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,true,,13221,20,20,261,1,0,MacBook-Pro-de-Jose.local
+1592058170055,227,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,true,,1185,20,20,227,1,0,MacBook-Pro-de-Jose.local
+1592058170097,204,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,1185,20,20,204,1,0,MacBook-Pro-de-Jose.local
+1592058170101,201,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,1185,20,20,201,1,0,MacBook-Pro-de-Jose.local
+1592058170063,249,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058170133,205,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,true,,1185,20,20,205,1,0,MacBook-Pro-de-Jose.local
+1592058170063,268,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,1185,20,20,268,1,0,MacBook-Pro-de-Jose.local
+1592058170148,194,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-14,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058170059,288,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,1197,20,20,288,1,0,MacBook-Pro-de-Jose.local
+1592058170169,199,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058170211,164,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,1185,20,20,164,1,0,MacBook-Pro-de-Jose.local
+1592058170193,192,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,1197,20,20,192,1,0,MacBook-Pro-de-Jose.local
+1592058170121,264,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,true,,13197,20,20,264,1,0,MacBook-Pro-de-Jose.local
+1592058170251,165,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,1185,20,20,165,1,0,MacBook-Pro-de-Jose.local
+1592058170232,184,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-18,true,,1197,20,20,184,1,0,MacBook-Pro-de-Jose.local
+1592058170264,157,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,1185,20,20,157,1,0,MacBook-Pro-de-Jose.local
+1592058170217,245,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,true,,13148,20,20,245,1,0,MacBook-Pro-de-Jose.local
+1592058170164,303,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,true,,13185,20,20,303,1,0,MacBook-Pro-de-Jose.local
+1592058170282,194,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-16,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058170269,208,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-19,true,,1197,20,20,208,1,0,MacBook-Pro-de-Jose.local
+1592058170268,230,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,13148,20,20,230,1,0,MacBook-Pro-de-Jose.local
+1592058170301,213,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058170269,254,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,1197,20,20,254,1,0,MacBook-Pro-de-Jose.local
+1592058170302,225,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058170343,197,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058170343,224,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-15,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058170347,242,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,1185,20,20,242,1,0,MacBook-Pro-de-Jose.local
+1592058170313,277,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,13134,20,20,277,1,0,MacBook-Pro-de-Jose.local
+1592058170385,237,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,1185,20,20,237,1,0,MacBook-Pro-de-Jose.local
+1592058170368,261,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,13158,20,20,261,1,0,MacBook-Pro-de-Jose.local
+1592058170417,214,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058170385,249,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-20,true,,1197,20,20,249,1,0,MacBook-Pro-de-Jose.local
+1592058170375,260,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058170343,304,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,true,,13158,20,20,304,1,0,MacBook-Pro-de-Jose.local
+1592058170417,257,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,true,,1185,20,20,257,1,0,MacBook-Pro-de-Jose.local
+1592058170477,200,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,true,,1185,20,20,200,1,0,MacBook-Pro-de-Jose.local
+1592058170421,262,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058170476,218,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-16,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058170514,192,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058170499,224,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,1197,20,20,224,1,0,MacBook-Pro-de-Jose.local
+1592058170467,257,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-17,true,,1197,20,20,257,1,0,MacBook-Pro-de-Jose.local
+1592058170527,204,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058170463,276,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-13,true,,1197,20,20,276,1,0,MacBook-Pro-de-Jose.local
+1592058170540,208,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058170523,241,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,1185,20,20,241,1,0,MacBook-Pro-de-Jose.local
+1592058170568,208,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-15,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058170590,190,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,1197,20,20,189,1,0,MacBook-Pro-de-Jose.local
+1592058170631,169,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058170636,195,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058170634,194,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,true,,1185,20,20,194,1,0,MacBook-Pro-de-Jose.local
+1592058170622,199,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058170590,226,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058170629,187,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,1197,20,20,187,1,0,MacBook-Pro-de-Jose.local
+1592058170647,211,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-14,true,,1197,20,20,211,1,0,MacBook-Pro-de-Jose.local
+1592058170674,220,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-18,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058170683,211,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058170678,227,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-19,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058170695,216,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,true,,13134,20,20,216,1,0,MacBook-Pro-de-Jose.local
+1592058170723,198,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,1185,20,20,198,1,0,MacBook-Pro-de-Jose.local
+1592058170707,237,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,13134,20,20,236,1,0,MacBook-Pro-de-Jose.local
+1592058170724,220,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,true,,1185,20,20,220,1,0,MacBook-Pro-de-Jose.local
+1592058170739,218,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,true,,1185,20,20,218,1,0,MacBook-Pro-de-Jose.local
+1592058170764,202,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058170780,216,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,1185,20,20,216,1,0,MacBook-Pro-de-Jose.local
+1592058170749,247,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,13171,20,20,247,1,0,MacBook-Pro-de-Jose.local
+1592058170838,179,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,1185,20,20,179,1,0,MacBook-Pro-de-Jose.local
+1592058170731,298,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,13183,20,20,298,1,0,MacBook-Pro-de-Jose.local
+1592058170838,192,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058170777,266,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,true,,13183,20,20,265,1,0,MacBook-Pro-de-Jose.local
+1592058170800,244,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,13183,20,20,244,1,0,MacBook-Pro-de-Jose.local
+1592058170838,229,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058170838,232,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-20,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058170858,214,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,true,,1185,20,20,214,1,0,MacBook-Pro-de-Jose.local
+1592058170894,184,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-18,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058170838,257,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,13183,20,20,257,1,0,MacBook-Pro-de-Jose.local
+1592058170905,198,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-19,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058170922,192,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058170895,242,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,13234,20,20,242,1,0,MacBook-Pro-de-Jose.local
+1592058170945,193,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-17,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058170957,196,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-13,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058170911,246,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-16,true,,1197,20,20,246,1,0,MacBook-Pro-de-Jose.local
+1592058170944,217,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,1197,20,20,217,1,0,MacBook-Pro-de-Jose.local
+1592058170966,213,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058170996,197,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058170996,223,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,1197,20,20,223,1,0,MacBook-Pro-de-Jose.local
+1592058171043,186,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-15,true,,1197,20,20,186,1,0,MacBook-Pro-de-Jose.local
+1592058171017,228,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058171030,216,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,1197,20,20,216,1,0,MacBook-Pro-de-Jose.local
+1592058171044,232,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,1197,20,20,232,1,0,MacBook-Pro-de-Jose.local
+1592058171070,225,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-20,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058171072,267,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-14,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058171079,270,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,true,,13183,20,20,270,1,0,MacBook-Pro-de-Jose.local
+1592058171095,265,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,1197,20,20,265,1,0,MacBook-Pro-de-Jose.local
+1592058171030,342,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,13220,20,20,342,1,0,MacBook-Pro-de-Jose.local
+1592058171138,258,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,1197,20,20,258,1,0,MacBook-Pro-de-Jose.local
+1592058171104,300,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,true,,13183,20,20,300,1,0,MacBook-Pro-de-Jose.local
+1592058171153,260,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-13,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058171115,309,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058171138,289,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-17,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058171067,368,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,13183,20,20,368,1,0,MacBook-Pro-de-Jose.local
+1592058171161,286,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,1185,20,20,286,1,0,MacBook-Pro-de-Jose.local
+1592058171157,296,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,true,,1185,20,20,296,1,0,MacBook-Pro-de-Jose.local
+1592058171193,261,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058171219,249,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,1185,20,20,249,1,0,MacBook-Pro-de-Jose.local
+1592058171246,235,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,1185,20,20,235,1,0,MacBook-Pro-de-Jose.local
+1592058171245,239,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058171277,211,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,1185,20,20,211,1,0,MacBook-Pro-de-Jose.local
+1592058171229,271,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,true,,1185,20,20,271,1,0,MacBook-Pro-de-Jose.local
+1592058171179,331,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,13184,20,20,331,1,0,MacBook-Pro-de-Jose.local
+1592058171360,167,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,1185,20,20,167,1,0,MacBook-Pro-de-Jose.local
+1592058171341,189,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-14,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058171349,182,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-18,true,,1197,20,20,182,1,0,MacBook-Pro-de-Jose.local
+1592058171396,152,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,1185,20,20,152,1,0,MacBook-Pro-de-Jose.local
+1592058171295,265,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,true,,13210,20,20,264,1,0,MacBook-Pro-de-Jose.local
+1592058171373,208,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,1197,20,20,208,1,0,MacBook-Pro-de-Jose.local
+1592058171435,169,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,1197,20,20,169,1,0,MacBook-Pro-de-Jose.local
+1592058171404,209,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-19,true,,1197,20,20,209,1,0,MacBook-Pro-de-Jose.local
+1592058171414,204,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,true,,13198,20,20,204,1,0,MacBook-Pro-de-Jose.local
+1592058171428,200,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,true,,13173,20,20,200,1,0,MacBook-Pro-de-Jose.local
+1592058171424,224,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,13173,20,20,224,1,0,MacBook-Pro-de-Jose.local
+1592058171447,208,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058171482,186,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058171468,202,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058171454,269,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-16,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058171489,246,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058171484,252,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,13159,20,20,251,1,0,MacBook-Pro-de-Jose.local
+1592058171454,287,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,13159,20,20,287,1,0,MacBook-Pro-de-Jose.local
+1592058171510,233,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,1197,20,20,233,1,0,MacBook-Pro-de-Jose.local
+1592058171501,247,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-15,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058171549,238,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058171581,225,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,1185,20,20,225,1,0,MacBook-Pro-de-Jose.local
+1592058171531,275,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,true,,1185,20,20,275,1,0,MacBook-Pro-de-Jose.local
+1592058171560,250,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-20,true,,1197,20,20,250,1,0,MacBook-Pro-de-Jose.local
+1592058171605,250,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,1185,20,20,250,1,0,MacBook-Pro-de-Jose.local
+1592058171618,238,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-13,true,,1197,20,20,238,1,0,MacBook-Pro-de-Jose.local
+1592058171531,326,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,true,,13182,20,20,326,1,0,MacBook-Pro-de-Jose.local
+1592058171528,331,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058171614,255,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,true,,1185,20,20,255,1,0,MacBook-Pro-de-Jose.local
+1592058171628,259,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-17,true,,1197,20,20,259,1,0,MacBook-Pro-de-Jose.local
+1592058171668,231,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058171655,258,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058171648,266,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,1197,20,20,266,1,0,MacBook-Pro-de-Jose.local
+1592058171723,203,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-16,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058171670,271,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058171735,216,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058171749,215,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-15,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058171736,235,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,1197,20,20,235,1,0,MacBook-Pro-de-Jose.local
+1592058171788,198,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058171743,249,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,1185,20,20,249,1,0,MacBook-Pro-de-Jose.local
+1592058171741,257,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,1197,20,20,257,1,0,MacBook-Pro-de-Jose.local
+1592058171806,199,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-18,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058171806,224,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058171855,191,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058171856,194,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,true,,1185,20,20,194,1,0,MacBook-Pro-de-Jose.local
+1592058171857,223,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-14,true,,1197,20,20,223,1,0,MacBook-Pro-de-Jose.local
+1592058171859,225,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058171869,238,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-19,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058171810,298,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,true,,1185,20,20,298,1,0,MacBook-Pro-de-Jose.local
+1592058171888,223,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,true,,1185,20,20,223,1,0,MacBook-Pro-de-Jose.local
+1592058171914,228,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,1185,20,20,228,1,0,MacBook-Pro-de-Jose.local
+1592058171900,245,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,13159,20,20,245,1,0,MacBook-Pro-de-Jose.local
+1592058171971,203,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,1185,20,20,203,1,0,MacBook-Pro-de-Jose.local
+1592058171942,239,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,13171,20,20,239,1,0,MacBook-Pro-de-Jose.local
+1592058171914,273,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,13171,20,20,273,1,0,MacBook-Pro-de-Jose.local
+1592058171952,240,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,13171,20,20,240,1,0,MacBook-Pro-de-Jose.local
+1592058171998,217,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,1185,20,20,217,1,0,MacBook-Pro-de-Jose.local
+1592058171927,290,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,true,,13171,20,20,290,1,0,MacBook-Pro-de-Jose.local
+1592058171993,224,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058172006,224,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-18,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058171965,265,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,true,,13171,20,20,265,1,0,MacBook-Pro-de-Jose.local
+1592058172046,207,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058172031,237,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058172051,239,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-13,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058172107,183,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-19,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058172080,211,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,true,,1185,20,20,211,1,0,MacBook-Pro-de-Jose.local
+1592058171986,317,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,13183,20,20,317,1,0,MacBook-Pro-de-Jose.local
+1592058172145,187,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,1197,20,20,187,1,0,MacBook-Pro-de-Jose.local
+1592058172084,247,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,13222,20,20,247,1,0,MacBook-Pro-de-Jose.local
+1592058172108,210,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-20,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058172142,199,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058172174,199,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058172192,199,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,1197,20,20,199,1,0,MacBook-Pro-de-Jose.local
+1592058172187,206,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,1197,20,20,206,1,0,MacBook-Pro-de-Jose.local
+1592058172111,286,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-17,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058172216,202,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058172181,243,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,1197,20,20,243,1,0,MacBook-Pro-de-Jose.local
+1592058172217,253,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058172230,258,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-15,true,,1197,20,20,258,1,0,MacBook-Pro-de-Jose.local
+1592058172217,290,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-16,true,,1197,20,20,290,1,0,MacBook-Pro-de-Jose.local
+1592058172290,228,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-13,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058172253,293,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,13195,20,20,293,1,0,MacBook-Pro-de-Jose.local
+1592058172230,322,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,true,,13220,20,20,322,1,0,MacBook-Pro-de-Jose.local
+1592058172303,255,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,1197,20,20,255,1,0,MacBook-Pro-de-Jose.local
+1592058172292,282,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-14,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058172338,244,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-20,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058172291,302,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,true,,13183,20,20,302,1,0,MacBook-Pro-de-Jose.local
+1592058172338,266,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,1185,20,20,266,1,0,MacBook-Pro-de-Jose.local
+1592058172373,238,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058172338,277,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,1197,20,20,277,1,0,MacBook-Pro-de-Jose.local
+1592058172268,360,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,13170,20,20,360,1,0,MacBook-Pro-de-Jose.local
+1592058172392,241,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,1185,20,20,241,1,0,MacBook-Pro-de-Jose.local
+1592058172394,240,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,1185,20,20,240,1,0,MacBook-Pro-de-Jose.local
+1592058172397,242,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-17,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058172342,317,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058172424,240,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,1185,20,20,240,1,0,MacBook-Pro-de-Jose.local
+1592058172488,176,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,true,,1185,20,20,176,1,0,MacBook-Pro-de-Jose.local
+1592058172507,161,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,true,,1185,20,20,161,1,0,MacBook-Pro-de-Jose.local
+1592058172419,253,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058172559,136,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,1185,20,20,136,1,0,MacBook-Pro-de-Jose.local
+1592058172546,160,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,1197,20,20,160,1,0,MacBook-Pro-de-Jose.local
+1592058172575,135,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-14,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058172553,167,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-18,true,,1197,20,20,167,1,0,MacBook-Pro-de-Jose.local
+1592058172519,221,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,true,,13210,20,20,221,1,0,MacBook-Pro-de-Jose.local
+1592058172471,278,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,13197,20,20,278,1,0,MacBook-Pro-de-Jose.local
+1592058172604,164,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058172593,181,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-19,true,,1197,20,20,181,1,0,MacBook-Pro-de-Jose.local
+1592058172615,172,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,1185,20,20,172,1,0,MacBook-Pro-de-Jose.local
+1592058172583,204,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,true,,13173,20,20,204,1,0,MacBook-Pro-de-Jose.local
+1592058172628,168,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,1197,20,20,168,1,0,MacBook-Pro-de-Jose.local
+1592058172634,214,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058172611,213,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,13160,20,20,213,1,0,MacBook-Pro-de-Jose.local
+1592058172634,232,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058172664,217,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-15,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058172664,220,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058172659,234,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,13135,20,20,234,1,0,MacBook-Pro-de-Jose.local
+1592058172639,275,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,true,,13135,20,20,275,1,0,MacBook-Pro-de-Jose.local
+1592058172720,231,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,true,,1185,20,20,231,1,0,MacBook-Pro-de-Jose.local
+1592058172668,283,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-16,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058172706,255,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,1185,20,20,255,1,0,MacBook-Pro-de-Jose.local
+1592058172695,274,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058172672,326,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,13195,20,20,326,1,0,MacBook-Pro-de-Jose.local
+1592058172768,233,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058172711,300,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,true,,13183,20,20,300,1,0,MacBook-Pro-de-Jose.local
+1592058172740,275,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-13,true,,1197,20,20,275,1,0,MacBook-Pro-de-Jose.local
+1592058172774,252,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,true,,1185,20,20,252,1,0,MacBook-Pro-de-Jose.local
+1592058172749,296,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,1197,20,20,295,1,0,MacBook-Pro-de-Jose.local
+1592058172787,261,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058172797,251,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,1185,20,20,251,1,0,MacBook-Pro-de-Jose.local
+1592058172850,207,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058172787,279,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-20,true,,1197,20,20,279,1,0,MacBook-Pro-de-Jose.local
+1592058172850,236,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,1197,20,20,236,1,0,MacBook-Pro-de-Jose.local
+1592058172866,242,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058172893,217,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,1197,20,20,217,1,0,MacBook-Pro-de-Jose.local
+1592058172884,236,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058172881,254,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-15,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058172914,221,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-17,true,,1197,20,20,221,1,0,MacBook-Pro-de-Jose.local
+1592058172951,193,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-16,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058172969,194,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058172951,218,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-18,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058172961,224,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058173016,189,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,true,,1185,20,20,189,1,0,MacBook-Pro-de-Jose.local
+1592058173011,194,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-14,true,,1197,20,20,194,1,0,MacBook-Pro-de-Jose.local
+1592058172998,209,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,1197,20,20,209,1,0,MacBook-Pro-de-Jose.local
+1592058173048,185,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058173026,218,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-19,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058173001,252,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,13159,20,20,252,1,0,MacBook-Pro-de-Jose.local
+1592058173045,213,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,1185,20,20,213,1,0,MacBook-Pro-de-Jose.local
+1592058173111,175,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,1185,20,20,175,1,0,MacBook-Pro-de-Jose.local
+1592058173066,226,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,true,,1185,20,20,226,1,0,MacBook-Pro-de-Jose.local
+1592058173048,249,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058173086,219,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,1185,20,20,219,1,0,MacBook-Pro-de-Jose.local
+1592058173057,254,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,13159,20,20,254,1,0,MacBook-Pro-de-Jose.local
+1592058173136,204,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,true,,1185,20,20,204,1,0,MacBook-Pro-de-Jose.local
+1592058173108,230,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,13171,20,20,230,1,0,MacBook-Pro-de-Jose.local
+1592058173121,243,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,13171,20,20,243,1,0,MacBook-Pro-de-Jose.local
+1592058173186,187,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058173169,217,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-18,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058173164,226,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,13171,20,20,226,1,0,MacBook-Pro-de-Jose.local
+1592058173205,186,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,true,,1185,20,20,186,1,0,MacBook-Pro-de-Jose.local
+1592058173136,277,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,true,,13171,20,20,277,1,0,MacBook-Pro-de-Jose.local
+1592058173144,273,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,true,,13171,20,20,273,1,0,MacBook-Pro-de-Jose.local
+1592058173205,214,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-13,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058173244,177,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-19,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058173207,221,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,1185,20,20,221,1,0,MacBook-Pro-de-Jose.local
+1592058173258,201,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058173297,163,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058173253,219,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,1197,20,20,219,1,0,MacBook-Pro-de-Jose.local
+1592058173292,193,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-20,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058173286,206,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058173234,265,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,13222,20,20,265,1,0,MacBook-Pro-de-Jose.local
+1592058173311,202,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,1197,20,20,202,1,0,MacBook-Pro-de-Jose.local
+1592058173305,224,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058173341,204,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-17,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058173341,239,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,1197,20,20,239,1,0,MacBook-Pro-de-Jose.local
+1592058173374,209,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,13233,20,20,209,1,0,MacBook-Pro-de-Jose.local
+1592058173364,226,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,1197,20,20,226,1,0,MacBook-Pro-de-Jose.local
+1592058173386,228,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,true,,13245,20,20,228,1,0,MacBook-Pro-de-Jose.local
+1592058173390,229,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,1197,20,20,229,1,0,MacBook-Pro-de-Jose.local
+1592058173418,210,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-16,true,,1197,20,20,210,1,0,MacBook-Pro-de-Jose.local
+1592058173391,252,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-14,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058173413,239,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-15,true,,1197,20,20,239,1,0,MacBook-Pro-de-Jose.local
+1592058173419,265,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-13,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058173460,238,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058173472,233,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,1185,20,20,233,1,0,MacBook-Pro-de-Jose.local
+1592058173421,284,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,true,,13142,20,20,284,1,0,MacBook-Pro-de-Jose.local
+1592058173428,293,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058173486,241,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-20,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058173513,227,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,1185,20,20,227,1,0,MacBook-Pro-de-Jose.local
+1592058173492,248,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058173461,290,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,13142,20,20,290,1,0,MacBook-Pro-de-Jose.local
+1592058173499,260,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,1197,20,20,260,1,0,MacBook-Pro-de-Jose.local
+1592058173545,228,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-17,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058173580,195,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,1185,20,20,195,1,0,MacBook-Pro-de-Jose.local
+1592058173529,255,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058173584,217,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,1197,20,20,217,1,0,MacBook-Pro-de-Jose.local
+1592058173591,214,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,1185,20,20,214,1,0,MacBook-Pro-de-Jose.local
+1592058173619,191,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,1185,20,20,191,1,0,MacBook-Pro-de-Jose.local
+1592058173628,189,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,true,,1185,20,20,189,1,0,MacBook-Pro-de-Jose.local
+1592058173614,219,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-18,true,,1197,20,20,219,1,0,MacBook-Pro-de-Jose.local
+1592058173643,188,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-14,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058173705,159,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058173653,224,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,true,,1185,20,20,224,1,0,MacBook-Pro-de-Jose.local
+1592058173706,171,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-19,true,,1197,20,20,171,1,0,MacBook-Pro-de-Jose.local
+1592058173684,209,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,true,,13160,20,20,209,1,0,MacBook-Pro-de-Jose.local
+1592058173721,187,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058173740,176,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058173698,230,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,13160,20,20,230,1,0,MacBook-Pro-de-Jose.local
+1592058173759,189,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,1185,20,20,189,1,0,MacBook-Pro-de-Jose.local
+1592058173752,210,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,1197,20,20,210,1,0,MacBook-Pro-de-Jose.local
+1592058173728,258,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,true,,13172,20,20,258,1,0,MacBook-Pro-de-Jose.local
+1592058173775,219,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058173801,218,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,1185,20,20,218,1,0,MacBook-Pro-de-Jose.local
+1592058173805,233,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058173784,256,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,13159,20,20,256,1,0,MacBook-Pro-de-Jose.local
+1592058173773,292,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,true,,13159,20,20,292,1,0,MacBook-Pro-de-Jose.local
+1592058173817,267,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-16,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058173810,301,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058173865,252,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058173842,289,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,true,,1185,20,20,289,1,0,MacBook-Pro-de-Jose.local
+1592058173842,293,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,true,,13183,20,20,293,1,0,MacBook-Pro-de-Jose.local
+1592058173741,405,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,13147,20,20,405,1,0,MacBook-Pro-de-Jose.local
+1592058173878,297,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-15,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058173916,260,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058173928,267,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,1197,20,20,267,1,0,MacBook-Pro-de-Jose.local
+1592058173893,310,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-13,true,,1197,20,20,310,1,0,MacBook-Pro-de-Jose.local
+1592058173878,332,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,true,,1185,20,20,332,1,0,MacBook-Pro-de-Jose.local
+1592058173962,262,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,1185,20,20,262,1,0,MacBook-Pro-de-Jose.local
+1592058173908,318,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,13220,20,20,318,1,0,MacBook-Pro-de-Jose.local
+1592058174019,231,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058173949,319,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058174040,229,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,1197,20,20,229,1,0,MacBook-Pro-de-Jose.local
+1592058173986,286,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-20,true,,1197,20,20,286,1,0,MacBook-Pro-de-Jose.local
+1592058174039,248,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058173994,319,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058174084,257,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-16,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058174111,228,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058174131,207,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-18,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058174065,262,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-17,true,,1197,20,20,262,1,0,MacBook-Pro-de-Jose.local
+1592058174135,240,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-14,true,,1197,20,20,240,1,0,MacBook-Pro-de-Jose.local
+1592058174117,278,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,13183,20,20,278,1,0,MacBook-Pro-de-Jose.local
+1592058174175,227,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-15,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058174195,207,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,1185,20,20,207,1,0,MacBook-Pro-de-Jose.local
+1592058174147,267,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,1197,20,20,267,1,0,MacBook-Pro-de-Jose.local
+1592058174203,228,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,true,,1185,20,20,228,1,0,MacBook-Pro-de-Jose.local
+1592058174177,258,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,13171,20,20,258,1,0,MacBook-Pro-de-Jose.local
+1592058174210,234,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-19,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058174224,229,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058174227,227,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,1197,20,20,227,1,0,MacBook-Pro-de-Jose.local
+1592058174268,204,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058174251,233,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058174270,218,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,1185,20,20,218,1,0,MacBook-Pro-de-Jose.local
+1592058174343,174,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,true,,1185,20,20,174,1,0,MacBook-Pro-de-Jose.local
+1592058174343,179,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-18,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058174272,270,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,true,,1185,20,20,270,1,0,MacBook-Pro-de-Jose.local
+1592058174375,185,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,true,,1185,20,20,185,1,0,MacBook-Pro-de-Jose.local
+1592058174287,285,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,13184,20,20,285,1,0,MacBook-Pro-de-Jose.local
+1592058174313,264,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,13184,20,20,264,1,0,MacBook-Pro-de-Jose.local
+1592058174343,246,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,true,,13197,20,20,246,1,0,MacBook-Pro-de-Jose.local
+1592058174395,199,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,1197,20,20,199,1,0,MacBook-Pro-de-Jose.local
+1592058174343,263,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,13197,20,20,263,1,0,MacBook-Pro-de-Jose.local
+1592058174414,206,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,1185,20,20,206,1,0,MacBook-Pro-de-Jose.local
+1592058174402,222,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058174444,195,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-19,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058174431,227,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-13,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058174453,207,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058174437,237,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,1197,20,20,237,1,0,MacBook-Pro-de-Jose.local
+1592058174403,282,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,true,,13172,20,20,282,1,0,MacBook-Pro-de-Jose.local
+1592058174488,219,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058174455,265,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,1185,20,20,265,1,0,MacBook-Pro-de-Jose.local
+1592058174472,263,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,13197,20,20,263,1,0,MacBook-Pro-de-Jose.local
+1592058174517,220,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-17,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058174522,244,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,true,,13209,20,20,244,1,0,MacBook-Pro-de-Jose.local
+1592058174560,220,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-14,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058174572,213,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,1197,20,20,213,1,0,MacBook-Pro-de-Jose.local
+1592058174542,265,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-20,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058174589,221,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-16,true,,1197,20,20,221,1,0,MacBook-Pro-de-Jose.local
+1592058174577,237,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,1197,20,20,237,1,0,MacBook-Pro-de-Jose.local
+1592058174594,245,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,1185,20,20,245,1,0,MacBook-Pro-de-Jose.local
+1592058174607,256,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,1197,20,20,256,1,0,MacBook-Pro-de-Jose.local
+1592058174624,242,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058174658,221,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-13,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058174484,405,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,13221,20,20,405,1,0,MacBook-Pro-de-Jose.local
+1592058174620,272,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058174675,226,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,1185,20,20,226,1,0,MacBook-Pro-de-Jose.local
+1592058174640,287,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,true,,13158,20,20,287,1,0,MacBook-Pro-de-Jose.local
+1592058174707,226,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058174685,258,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-15,true,,1197,20,20,258,1,0,MacBook-Pro-de-Jose.local
+1592058174735,226,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,1197,20,20,226,1,0,MacBook-Pro-de-Jose.local
+1592058174737,235,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-17,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058174766,218,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-18,true,,1197,20,20,218,1,0,MacBook-Pro-de-Jose.local
+1592058174780,221,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-14,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058174720,288,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058174661,350,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,13196,20,20,350,1,0,MacBook-Pro-de-Jose.local
+1592058174807,213,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-20,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058174785,252,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,1185,20,20,252,1,0,MacBook-Pro-de-Jose.local
+1592058174814,233,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,1185,20,20,233,1,0,MacBook-Pro-de-Jose.local
+1592058174810,250,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,true,,1185,20,20,250,1,0,MacBook-Pro-de-Jose.local
+1592058174863,201,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,1185,20,20,201,1,0,MacBook-Pro-de-Jose.local
+1592058174892,208,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058174889,215,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,1197,20,20,215,1,0,MacBook-Pro-de-Jose.local
+1592058174901,207,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058174866,244,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,13172,20,20,243,1,0,MacBook-Pro-de-Jose.local
+1592058174880,234,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,true,,13172,20,20,233,1,0,MacBook-Pro-de-Jose.local
+1592058174843,288,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058174962,185,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,1185,20,20,185,1,0,MacBook-Pro-de-Jose.local
+1592058174927,239,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-19,true,,1197,20,20,239,1,0,MacBook-Pro-de-Jose.local
+1592058174943,236,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,true,,1185,20,20,236,1,0,MacBook-Pro-de-Jose.local
+1592058174972,213,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,true,,13184,20,20,213,1,0,MacBook-Pro-de-Jose.local
+1592058174934,272,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,13159,20,20,272,1,0,MacBook-Pro-de-Jose.local
+1592058175002,217,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,true,,13159,20,20,217,1,0,MacBook-Pro-de-Jose.local
+1592058175008,216,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058175012,212,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,1197,20,20,212,1,0,MacBook-Pro-de-Jose.local
+1592058175037,212,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058174985,268,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,true,,1185,20,20,268,1,0,MacBook-Pro-de-Jose.local
+1592058175047,234,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058175064,221,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058175104,186,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,1185,20,20,186,1,0,MacBook-Pro-de-Jose.local
+1592058175020,280,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,true,,13134,20,20,280,1,0,MacBook-Pro-de-Jose.local
+1592058175060,242,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-16,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058175108,229,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058175114,231,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-13,true,,1197,20,20,231,1,0,MacBook-Pro-de-Jose.local
+1592058175131,229,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058175100,263,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,13195,20,20,263,1,0,MacBook-Pro-de-Jose.local
+1592058175167,206,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,true,,1185,20,20,206,1,0,MacBook-Pro-de-Jose.local
+1592058175110,283,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,1197,20,20,283,1,0,MacBook-Pro-de-Jose.local
+1592058175148,247,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058175186,232,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-17,true,,1197,20,20,232,1,0,MacBook-Pro-de-Jose.local
+1592058175206,219,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,1197,20,20,219,1,0,MacBook-Pro-de-Jose.local
+1592058175219,211,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-14,true,,1197,20,20,211,1,0,MacBook-Pro-de-Jose.local
+1592058175179,264,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-15,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058175224,252,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,1185,20,20,252,1,0,MacBook-Pro-de-Jose.local
+1592058175282,203,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058175253,239,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-18,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058175285,222,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058175249,273,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058175290,237,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058175301,231,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-20,true,,1197,20,20,231,1,0,MacBook-Pro-de-Jose.local
+1592058175302,254,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-16,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058175224,332,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,13130,20,20,332,1,0,MacBook-Pro-de-Jose.local
+1592058175346,227,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,true,,1185,20,20,227,1,0,MacBook-Pro-de-Jose.local
+1592058175343,250,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,13158,20,20,250,1,0,MacBook-Pro-de-Jose.local
+1592058175394,199,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,1185,20,20,199,1,0,MacBook-Pro-de-Jose.local
+1592058175373,233,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-19,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058175364,245,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,1197,20,20,245,1,0,MacBook-Pro-de-Jose.local
+1592058175395,229,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058175418,206,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,true,,1185,20,20,206,1,0,MacBook-Pro-de-Jose.local
+1592058175426,207,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,1185,20,20,207,1,0,MacBook-Pro-de-Jose.local
+1592058175360,295,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,13171,20,20,295,1,0,MacBook-Pro-de-Jose.local
+1592058175492,177,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-18,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058175430,239,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,true,,1185,20,20,239,1,0,MacBook-Pro-de-Jose.local
+1592058175443,253,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-15,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058175476,226,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058175527,183,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058175486,227,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,13184,20,20,227,1,0,MacBook-Pro-de-Jose.local
+1592058175532,198,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,true,,1185,20,20,198,1,0,MacBook-Pro-de-Jose.local
+1592058175522,227,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,13209,20,20,227,1,0,MacBook-Pro-de-Jose.local
+1592058175507,245,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,13196,20,20,245,1,0,MacBook-Pro-de-Jose.local
+1592058175573,191,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-13,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058175593,194,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058175606,181,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-19,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058175556,257,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,true,,13222,20,20,257,1,0,MacBook-Pro-de-Jose.local
+1592058175609,209,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,1185,20,20,209,1,0,MacBook-Pro-de-Jose.local
+1592058175593,232,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,1197,20,20,232,1,0,MacBook-Pro-de-Jose.local
+1592058175633,224,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058175624,234,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-17,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058175556,313,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,1197,20,20,313,1,0,MacBook-Pro-de-Jose.local
+1592058175655,231,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,1197,20,20,231,1,0,MacBook-Pro-de-Jose.local
+1592058175624,263,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,13234,20,20,263,1,0,MacBook-Pro-de-Jose.local
+1592058175670,241,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-14,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058175703,235,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058175714,232,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,1197,20,20,232,1,0,MacBook-Pro-de-Jose.local
+1592058175669,290,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,true,,13220,20,20,290,1,0,MacBook-Pro-de-Jose.local
+1592058175749,236,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,1197,20,20,236,1,0,MacBook-Pro-de-Jose.local
+1592058175765,223,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-13,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058175730,267,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-20,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058175697,310,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,true,,13220,20,20,310,1,0,MacBook-Pro-de-Jose.local
+1592058175710,298,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,13208,20,20,298,1,0,MacBook-Pro-de-Jose.local
+1592058175753,280,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,1197,20,20,280,1,0,MacBook-Pro-de-Jose.local
+1592058175844,196,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,1185,20,20,196,1,0,MacBook-Pro-de-Jose.local
+1592058175787,254,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058175818,241,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058175858,216,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-17,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058175869,208,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,1185,20,20,208,1,0,MacBook-Pro-de-Jose.local
+1592058175788,299,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,true,,13208,20,20,299,1,0,MacBook-Pro-de-Jose.local
+1592058175888,227,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,1197,20,20,227,1,0,MacBook-Pro-de-Jose.local
+1592058175857,259,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058175886,235,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,1185,20,20,235,1,0,MacBook-Pro-de-Jose.local
+1592058175912,218,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-14,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058175813,321,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-16,true,,1197,20,20,321,1,0,MacBook-Pro-de-Jose.local
+1592058175986,171,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,1185,20,20,171,1,0,MacBook-Pro-de-Jose.local
+1592058175960,209,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-18,true,,1197,20,20,209,1,0,MacBook-Pro-de-Jose.local
+1592058175946,226,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,1185,20,20,226,1,0,MacBook-Pro-de-Jose.local
+1592058175938,245,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,13197,20,20,245,1,0,MacBook-Pro-de-Jose.local
+1592058176033,170,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,1185,20,20,170,1,0,MacBook-Pro-de-Jose.local
+1592058175989,228,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,true,,13172,20,20,228,1,0,MacBook-Pro-de-Jose.local
+1592058176007,218,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-15,true,,1197,20,20,218,1,0,MacBook-Pro-de-Jose.local
+1592058176008,222,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,1197,20,20,222,1,0,MacBook-Pro-de-Jose.local
+1592058175998,241,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-20,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058176059,195,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058176041,223,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058176042,244,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,13135,20,20,244,1,0,MacBook-Pro-de-Jose.local
+1592058176077,221,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058176116,184,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,1185,20,20,184,1,0,MacBook-Pro-de-Jose.local
+1592058176122,221,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058176134,203,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,true,,1185,20,20,203,1,0,MacBook-Pro-de-Jose.local
+1592058176088,248,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-19,true,,1197,20,20,248,1,0,MacBook-Pro-de-Jose.local
+1592058176169,211,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,true,,1185,20,20,211,1,0,MacBook-Pro-de-Jose.local
+1592058176157,254,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058176173,239,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058176130,288,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,true,,13159,20,20,288,1,0,MacBook-Pro-de-Jose.local
+1592058176183,258,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,1197,20,20,258,1,0,MacBook-Pro-de-Jose.local
+1592058176075,379,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,true,,13184,20,20,379,1,0,MacBook-Pro-de-Jose.local
+1592058176225,240,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-15,true,,1185,20,20,240,1,0,MacBook-Pro-de-Jose.local
+1592058176117,358,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,13159,20,20,358,1,0,MacBook-Pro-de-Jose.local
+1592058176203,288,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058176264,244,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058176230,288,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,1185,20,20,288,1,0,MacBook-Pro-de-Jose.local
+1592058176217,305,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-13,true,,1197,20,20,305,1,0,MacBook-Pro-de-Jose.local
+1592058176298,245,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058176254,304,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,13170,20,20,304,1,0,MacBook-Pro-de-Jose.local
+1592058176240,319,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,true,,13170,20,20,319,1,0,MacBook-Pro-de-Jose.local
+1592058176301,260,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058176287,285,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,1197,20,20,285,1,0,MacBook-Pro-de-Jose.local
+1592058176347,241,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-16,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058176347,249,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-19,true,,1185,20,20,249,1,0,MacBook-Pro-de-Jose.local
+1592058176347,250,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058176380,235,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-18,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058176412,218,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058176442,197,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,1185,20,20,197,1,0,MacBook-Pro-de-Jose.local
+1592058176412,239,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058176454,199,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-17,true,,1197,20,20,199,1,0,MacBook-Pro-de-Jose.local
+1592058176491,186,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058176475,208,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,1197,20,20,208,1,0,MacBook-Pro-de-Jose.local
+1592058176418,266,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-14,true,,1197,20,20,266,1,0,MacBook-Pro-de-Jose.local
+1592058176522,194,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-13,true,,1185,20,20,194,1,0,MacBook-Pro-de-Jose.local
+1592058176465,263,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-15,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058176518,210,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058176560,204,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-20,true,,1197,20,20,204,1,0,MacBook-Pro-de-Jose.local
+1592058176559,208,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,1197,20,20,208,1,0,MacBook-Pro-de-Jose.local
+1592058176509,276,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,13159,20,20,276,1,0,MacBook-Pro-de-Jose.local
+1592058176562,252,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058176588,254,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-16,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058176596,245,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-19,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058176544,289,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,13130,20,20,289,1,0,MacBook-Pro-de-Jose.local
+1592058176572,252,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,1185,20,20,252,1,0,MacBook-Pro-de-Jose.local
+1592058176654,216,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-17,true,,1185,20,20,216,1,0,MacBook-Pro-de-Jose.local
+1592058176615,256,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-18,true,,511,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058176639,240,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,928,20,20,0,1,0,MacBook-Pro-de-Jose.local
+1592058176597,304,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,13146,20,20,304,1,0,MacBook-Pro-de-Jose.local
+1592058176683,223,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,1185,20,20,223,1,0,MacBook-Pro-de-Jose.local
+1592058176630,296,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,true,,13196,20,20,296,1,0,MacBook-Pro-de-Jose.local
+1592058176684,250,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-14,true,,1185,19,19,250,1,0,MacBook-Pro-de-Jose.local
+1592058176728,215,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-15,true,,511,18,18,0,1,0,MacBook-Pro-de-Jose.local
+1592058176717,227,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-13,true,,928,17,17,0,1,0,MacBook-Pro-de-Jose.local
+1592058176677,275,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,true,,13196,16,16,275,1,0,MacBook-Pro-de-Jose.local
+1592058176728,245,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-11,true,,511,15,15,0,1,0,MacBook-Pro-de-Jose.local
+1592058176764,213,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-20,true,,1185,14,14,213,1,0,MacBook-Pro-de-Jose.local
+1592058176651,336,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,true,,13196,13,13,336,1,0,MacBook-Pro-de-Jose.local
+1592058176767,241,GetIssueRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,true,,1185,12,12,241,1,0,MacBook-Pro-de-Jose.local
+1592058176844,175,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-19,true,,511,11,11,0,1,0,MacBook-Pro-de-Jose.local
+1592058176785,242,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-8,true,,1197,10,10,242,1,0,MacBook-Pro-de-Jose.local
+1592058176845,196,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-5,true,,1197,9,9,196,1,0,MacBook-Pro-de-Jose.local
+1592058176845,201,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-6,true,,928,8,8,0,1,0,MacBook-Pro-de-Jose.local
+1592058176870,214,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-17,true,,928,7,7,0,1,0,MacBook-Pro-de-Jose.local
+1592058176844,263,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-16,true,,13209,6,6,263,1,0,MacBook-Pro-de-Jose.local
+1592058176814,298,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,true,,13234,5,5,298,1,0,MacBook-Pro-de-Jose.local
+1592058176879,237,DeleteIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-12,true,,511,4,4,0,1,0,MacBook-Pro-de-Jose.local
+1592058176901,228,CreateIssueRedmine,201,Created,bzm - Concurrency Thread Group-ThreadStarter 1-7,true,,1197,3,3,228,1,0,MacBook-Pro-de-Jose.local
+1592058176906,245,UpdateIssueRedmine,204,No Content,bzm - Concurrency Thread Group-ThreadStarter 1-10,true,,928,2,2,0,1,0,MacBook-Pro-de-Jose.local
+1592058176872,291,GetListIssuesRedmine,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-18,true,,13221,1,1,291,1,0,MacBook-Pro-de-Jose.local
